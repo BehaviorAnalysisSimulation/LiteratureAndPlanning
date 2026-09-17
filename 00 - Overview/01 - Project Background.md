@@ -1,5 +1,5 @@
-- *Author: Tom Donaldson*
-- *Email: tedonaldsn@icloud.com*
+- **Author:** Tom Donaldson
+- **Email:** tedonaldsn@icloud.com
 
 *Reorienting myself.*
 
