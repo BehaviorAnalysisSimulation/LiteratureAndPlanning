@@ -11,7 +11,7 @@ This is not just a behavior analysis project, nor is it just a neuroscience or s
 
 [Doahoe, Palmer, and Burgos (1993)](../References.md#donahoe-burgos-palmer-1993) refer to this type of analysis/simulation as "biological behaviorism" or "biobehaviorism". This JEAB article is probably the best overview of the nature of the methodology, and where it comes from. Much has changed since its publication.
 
-- [Behavior Analysis](./00%20-%20BehaviorAnalysis.md)
+- [Behavior Analysis](./00%20-%20Behavior%20Analysis.md)
 - [Behavioral Neuroscience](03%20-%20Behavioral%20Neuroscience.md)
 - [Neuroscience](04%20-%20Neuroscience.md)
 - [Software Development](05%20-%20Software%20Development.md)
