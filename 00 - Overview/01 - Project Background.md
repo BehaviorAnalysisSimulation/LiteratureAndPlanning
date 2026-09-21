@@ -1,13 +1,14 @@
 - **Author:** Tom Donaldson
 - **Email:** tedonaldsn@icloud.com
 
-*Reorienting myself.*
+Previous: [00 - About](./00%20-%20About.md)
+Next: [02 - Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
+### Background
 
 This project will be a much delayed continuation of [BASimulation.org](https://basimulation.org). See:
 - [About](https://basimulation.org/about/)
 - [History](https://basimulation.org/history/)
 - [Update: Two Years After (July 2019)](https://basimulation.org/2019/07/10/update-two-years-after/)
-### Background
 
 As best I can remember, I started playing around with methods for simulating behavior from a behavior analytic perspective a couple of years before moving from Brookings, OR, to Morgantown, WV. We moved to Morgantown in May 2013, which gives a starting date of somewhere around 2011.
 
@@ -47,3 +48,6 @@ This is NOT artificial intelligence (AI). This is behavior simulation. Much more
 Given that I will be nearly 76 at the time of my retirement, how far can I get before dementia or death ends me?
 
 ---
+
+Previous: [00 - About](./00%20-%20About.md)
+Next: [02 - Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
