@@ -45,6 +45,8 @@ The intent is to produce valid behavior, not necessarily valid neuroscience simu
 
 I have tried the above two step conversation in Gemini, Claude, and ChatGPT. Each give reasonable, but different and even contradictory results. Repeated conversations with the same systems often give different (and even contradictory) results. And it could be that everything these probabalistic intraverbal machines says is incorrect in subtle and deceptive ways, even at best.
 
+These so called "AI" systems are primarily useful as super-search systems. The returned results are suggestive, not definitive.
+
 Complex. And that is even before getting to coding issues.
 
 ---
