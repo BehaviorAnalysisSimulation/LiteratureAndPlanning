@@ -1,6 +1,9 @@
 - **Author:** Tom Donaldson
 - **Email:** tedonaldsn@icloud.com
 
+Previous: [README.md](../README.md)
+Next: [Project Background](./01%20-%20Project%20Background.md)
+
 ### The Project
 
 The purpose of the overall project is to develop a virtual "insilico-organism" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
@@ -51,4 +54,5 @@ Complex. And that is even before getting to coding issues.
 
 ---
 
-
+Previous: [README.md](../README.md)
+Next: [Project Background](./01%20-%20Project%20Background.md)
