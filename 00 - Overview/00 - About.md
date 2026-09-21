@@ -1,9 +1,21 @@
 - **Author:** Tom Donaldson
 - **Email:** tedonaldsn@icloud.com
 
-The intent is to develop a virtual "insilico-organism" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
+### The Project
+
+The purpose of the overall project is to develop a virtual "insilico-organism" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
 
 This organism could ultimately be used to test "what if" behavioral scenarios as a cheap, fast, convenient way to test out behavior analytic ideas, procedures, etc. It could also be used in teaching and training.
+
+### This Document Set
+
+These are my working notes. They in some way represent my current knowledge regarding topics related to the project.
+
+They will change. They will probably be somewhat inconsistent, incorrect, speculative. 
+
+Mostly, these documents are an attempt to record information in a somewhat organized manner that facilitates usage. 
+
+I generally keep a work diary of some sort, which is fine for tracing how and why I did something in sequence. Such diaries are not terribly easy to use as a reference. I will probably keep a diary for this project also, but will extract "conclusions" from the diary and organize them in this doc.
 
 # Interdisciplinary
 
@@ -31,7 +43,9 @@ How to solve these issues? Would Thousand Brains Theory help? A model thalamus? 
 The intent is to produce valid behavior, not necessarily valid neuroscience simulations. I am looking for principled heuristics that only includes "load bearing" code that will run fast on Apple Silicon.
 ```
 
-This will be a long and difficult journey.
+I have tried the above two step conversation in Gemini, Claude, and ChatGPT. Each give reasonable, but different and even contradictory results. Repeated conversations with the same systems often give different (and even contradictory) results. And it could be that everything these probabalistic intraverbal machines says is incorrect in subtle and deceptive ways, even at best.
+
+Complex. And that is even before getting to coding issues.
 
 ---
 
