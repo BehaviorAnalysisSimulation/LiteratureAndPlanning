@@ -1,8 +1,8 @@
 - **Author:** Tom Donaldson
 - **Email:** tedonaldsn@icloud.com
 
-Previous: [README.md](../README.md)
-Next: [02 - Project Background](./01%20-%20Project%20Background.md)
+- Previous: [README.md](../README.md)
+- Next: [02 - Project Background](./01%20-%20Project%20Background.md)
 
 ### The Project
 
@@ -54,5 +54,5 @@ Complex. And that is even before getting to coding issues.
 
 ---
 
-Previous: [README.md](../README.md)
-Next: [02 - Project Background](./01%20-%20Project%20Background.md)
+- Previous: [README.md](../README.md)
+- Next: [02 - Project Background](./01%20-%20Project%20Background.md)
