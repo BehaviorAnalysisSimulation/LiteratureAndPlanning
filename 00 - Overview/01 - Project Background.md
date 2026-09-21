@@ -1,8 +1,5 @@
 - **Author:** Tom Donaldson
 - **Email:** tedonaldsn@icloud.com
-
-- Previous: [00 - About](./00%20-%20About.md)
-- Next: [02 - Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
 ### Background
 
 This project will be a much delayed continuation of [BASimulation.org](https://basimulation.org). See:
