@@ -52,7 +52,8 @@ Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in avoidanc
 
 <br><a name="grimm-railsback-2019"></a>
 Grimm, V., & Railsback, S. F. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
-- This second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples.
+1. Read first: [Railsback & Grimm (2005)](./References.md#railsback-grimm-2005)
+2. This second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples.
 
 <br><a name="hake-donaldson-hyten-1983"></a>
 Hake, D. F., Donaldson, T., Hyten, C. (1983). *JEAB*, 39(1), 7-23. https://pubmed.ncbi.nlm.nih.gov/16812313/
