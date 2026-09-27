@@ -50,10 +50,6 @@ Ferster, C. B., Skinner, B. F. (1957). *Schedules of Reinforcement*. Prentice-Ha
 <a name="garcia-koelling-1966"></a>
 Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in avoidance learning. *Psychonomic Science, 4*(3), 123–124.
 
-<a name="grimm-railsback-2005"></a>
-Grimm, V., & Railsback, S. F. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
-- The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
-
 <br><a name="grimm-railsback-2019"></a>
 Grimm, V., & Railsback, S. F. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
 - This second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples.
@@ -99,6 +95,10 @@ Nevin, J. A. (1974). Response strength in multiple schedules. *JEAB, 21*(3), 389
 
 <br><a name="nevin-mandel-atak-1983"></a>
 Nevin, J. A., Mandell, C., & Atak, J. R. (1983). The analysis of behavioral momentum. *JEAB, 39*(1), 49–59. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1983.39-49
+
+<br><a name="railsback-grimm-2005"></a>
+Railsback, S. F. & Grimm, V. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
+- The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
 
 <br><a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
