@@ -6,12 +6,7 @@ Retirement hobby project to develop a virtual "insilico-organism" that behaves i
 
 Such a virtual organism could ultimately be used to test "what if" behavioral scenarios as a cheap, fast, convenient way to test out behavior analytic ideas, procedures, etc. It could also be used in teaching and training.
 
+Just getting back to this project after a seven year hiatus. I expect progress will be glacial: I'm old.
+
 See: [About](https://github.com/BehaviorAnalysisSimulation/LiteratureAndPlanning/blob/main/00%20-%20Overview/00%20-%20About.md)
-
-# Test reference links
-
-[Sidman (1960)](References.md#sidman-1960)
-
-[Johnston & Pennypacker (2008)](References.md#johnston-pennypacker-2008)
-
 
