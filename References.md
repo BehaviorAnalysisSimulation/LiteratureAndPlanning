@@ -99,7 +99,7 @@ Nevin, J. A., Mandell, C., & Atak, J. R. (1983). The analysis of behavioral mome
 <br><a name="railsback-grimm-2005"></a>
 Railsback, S. F. & Grimm, V. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
 - The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
-- Also see: [Grimm & Railsback (2019)](grimm-railsback-2019)
+- Also see: [Grimm & Railsback (2019)](./References.md#grimm-railsback-2019)
 
 <br><a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
