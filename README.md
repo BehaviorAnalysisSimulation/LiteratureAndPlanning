@@ -8,5 +8,5 @@ Such a virtual organism could ultimately be used to test "what if" behavioral sc
 
 Just getting back to this project after a seven year hiatus. I expect progress will be glacial: I'm old.
 
-See: [About](https://github.com/BehaviorAnalysisSimulation/LiteratureAndPlanning/blob/main/00%20-%20Overview/00%20-%20About.md)
+See: [About](./00%20-%20Overview/00%20-%20About.md)
 
