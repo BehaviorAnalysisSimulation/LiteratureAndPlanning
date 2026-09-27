@@ -22,9 +22,18 @@ Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982). A unif
 
 <br><a name="donahoe-palmer-1989"></a>
 Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing, Edited by J. L. McClelland, D. E. Rumelhart, and The PDP Research Group. _Journal of the Experimental Analysis of Behavior_, 51, 399-416. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1989.51-399 
+1. Rationale for combining behavior analysis with neural nets for modeling behavior, along with the TDD issues.
+2. Behavior analytic interpretation vs cognitive/computer-science interpretation:
+	1. Behavior analysis derives interpretation of complex behavior from experimental data.
+	2. PDP (cognitive, AI) infers cognitive processes from the complex behavior, vs experimental data.
 
 <br><a name="donahoe-burgos-palmer-1993"></a>
 Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17
+1. **Probably the best introduction to the SelNet bio-plausible artificial neural network and its operation.**
+2. Description of a "unified principle of reinforcement" (UPR).
+3. General description with schematics of example networks. No experiment here, just description.
+4. Describes several behavioral phenomena and procedures to illustrate the action on behavior of a neural net using dopaminergic and hippocampal signals as agents of selection.
+5. Learning and activation functions are described in the Appendix.
 
 <br><a name="donahoe-palmer-carlson-1994"></a>
 Donahoe, J. W., Palmer, D. C., & Carlson, N. C. (1994). *Complex human behavior: A biobehavioral approach*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
