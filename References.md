@@ -1,23 +1,15 @@
-
-
-
-
-<br><a name="amit-1989"></a>
+<br><a name="amit-1989">Amit (1989)</a>
 Amit, D (1989). *Modeling Brain Function: The world of attractor neural networks*. Cambridge University Press. https://www.amazon.com/dp/0521421241 
-
-<br><a name="breland-breland-1961"></a>
+<br><a name="breland-breland-1961">Breland and Breland (1961)</a>
 Breland, K., & Breland, M. (1961). The misbehavior of organisms. *American Psychologist, 16*(11), 681–684.
-
-<br><a name="burgos-1996"></a>
+<br><a name="burgos-1996">Burgos (1996)</a>
 Burgos, J. E. (1996). *Computational Explorations of the Evolution of Artificial Neural Networks in Pavlovian Environments* \[Unpublished doctoral dissertation]. University of Massachusetts Amherst.
-
-<br><a name="burgos-1997"></a>
+<br><a name="burgos-1997">Burgos (1997)</a>
 Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments. In J. W. Donahoe & V. Packard Dorsel (Eds.), _Neural-network models of cognition_ (pp. 58–81). North-Holland. https://www.amazon.com/dp/0444819312 *([private copy](Burgos_1997.pdf))*
-
-<br><a name="donahoe-1982"></a>
+<br><a name="donahoe-1982">Donahoe (1982)</a>
 Donahoe, J. W. (1982). Skinner – The Darwin of ontogeny? _Behavioral and Brain Sciences_. 1984;7(4):487-488. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/skinner-the-darwin-of-ontogeny/0E576BA7E8298FB27B457B65D8E188B1
 
-<br><a name="donahoe-crowley-millard-stickney-1982"></a>
+<br><a name="donahoe-crowley-millard-stickney-1982">Donahoe, Crowley, Millard, and Stickney (1982)</a>
 Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982). A unified principle of reinforcement: Some implications for matching. In M. L. Commons, R. J. Herrnstein, & H. Rachlin (Eds.), *Quantitative analyses of behavior: Vol. 2. Matching and maximizing accounts* (pp. 493-521). Cambridge, MA: Ballinger.  https://www.amazon.com/dp/0884107396 
 
 <br><a name="donahoe-palmer-1989"></a>
@@ -47,9 +39,11 @@ Fantino, E. (1969). Choice and rate of reinforcement. *JEAB, 12*(5), 723–730.
 <br><a name="ferster-skinner-1957"></a>
 Ferster, C. B., Skinner, B. F. (1957). *Schedules of Reinforcement*. Prentice-Hall. https://www.bfskinner.org/product/schedules-of-reinforcement-pdf/
 
-<a name="garcia-koelling-1966"></a>
+<br><a name="garcia-koelling-1966">Garcia and Koelling (1966)</a>
 Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in avoidance learning. *Psychonomic Science, 4*(3), 123–124.
 
+<a name="garcia-rill-2015">Garcia-Rill (2015)</a>
+Garcia-Rill, E. (2015). *Waking and the Reticular Activating System in Health and Disease*. Academic Press. https://www.amazon.com/Waking-Reticular-Activating-System-Disease-ebook/dp/B00WZ1AXG8/
 <br><a name="grimm-railsback-2019"></a>
 Grimm, V., & Railsback, S. F. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
 1. Read first: [Railsback & Grimm (2005)](./References.md#railsback-grimm-2005)

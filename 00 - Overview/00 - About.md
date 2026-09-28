@@ -44,7 +44,7 @@ Solving these problems will be very difficult. One possibility is to integrate s
 
 Add following prompt to the conversation started above ([or click here for a pre-computed Google AIMode response](https://share.google/aimode/VSPO7P39rt9w5I07n)):
 
-***`How might integration of a simulated thalamus, or a simulated reticular activing system (RAS) affect the accuracy and validity of the simulations?`***
+***`How might integration of a simulated thalamus, or a simulated reticular activating system (RAS) affect the accuracy and validity of the simulations?`***
 
 ### 3. Best?
 
