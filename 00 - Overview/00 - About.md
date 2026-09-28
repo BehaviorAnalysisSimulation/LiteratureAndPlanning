@@ -30,17 +30,15 @@ This is not just a behavior analysis project, nor is it just a neuroscience or s
 
 # The Reality
 
-### More Effective and Bio-Plausible, but Costly
-
 The Donahoe, et al., model focussed on the consequence side of the "three term contingency". It worked well, as far as it went, but has limitations.
 
-##### 1. SelNet as a starting point
+### 1. SelNet as a starting point
 
 For example, try this prompt with your favorite AI ([or click here for a pre-computed Google AIMode response](https://share.google/aimode/A8UOZEQUxFiDkMyJl)):
 
 ***`Critique the limitations of the Donahoe SelNet model in simulating the real-world observations of behavior analysis, especially as documented in JEAB and JABA`***
 
-##### 2. Better?
+### 2. Better?
 
 Solving these problems will be very difficult. One possibility is to integrate such as a [model thalamus](https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman-ebook/dp/B00P2AZAEO), and a [reticular activating system (RAS)](https://en.wikipedia.org/wiki/Reticular_formation), with the Donahoe model. 
 
@@ -48,19 +46,19 @@ Add following prompt to the conversation started above ([or click here for a pre
 
 ***`How might integration of a simulated thalamus, or a simulated reticular activing system (RAS) affect the accuracy and validity of the simulations?`***
 
-##### 3. Best?
+### 3. Best?
 
 The system would at this point still have problems. Might Thousand Brains Theory (TBT) help? Try adding one final prompt to the conversation ([or click here for a pre-computed Google AIMode response](https://share.google/aimode/BJf6PzkQyJhyuLKz1)):
 
 ***`Might Thousand Brains Theory (TBT) somehow be integrated with the combined SelNet, thalamus, and RAS? If so, what would the impact be?`***
 
-##### 4. Is it even practical?
+### 4. Is it even practical?
 
 But is it even possible on off the shelf, "inexpensive" computer hardware? Add the following prompt to your conversation ([or click here for pre-computed Google AIMode answer](https://share.google/aimode/agDNUF9Zc0JIE4Eso)):
 
 ***`Assuming a strictly Apple ecosystem using the Swift language: how practical would a mouse model including TBT be, and what hardware would be required?`***
 
-### JEAB as the main Driver
+# JEAB as the main Driver
 
 JEAB, as an archival journal, presents large numbers of experiments and results covering a very large number of behaviors, concepts. As such, it represents in a clear manner what the insilico organism must do, what tests it must pass. 
 
