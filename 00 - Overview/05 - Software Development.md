@@ -1,7 +1,19 @@
-- **Author:** Tom Donaldson
-- **Email:** tedonaldsn@icloud.com
 
-# Software Environment
+# Development Environment
+
+Work will be done within the Apple ecosystem as much as possible.
+### Software
+
+The simulation proper will be developed in the Swift language for performance, safety, and productivity.
+
+Apple products have a variety of processors: CPUs, GPUs, NPUs. Apple APIs such as [Core ML](https://developer.apple.com/documentation/coreml), [MLX](https://mlx-framework.org/#examples), and [Foundation Models Framework](https://developer.apple.com/documentation/foundationmodels/), make them easy to use.
+
+Peripheral software, especially data analysis and offline graphing will likely be done in Python.
+### Hardware
+
+Hardware will at least initially be limited to Apple silicon Macs. They are probably the most affordable and easy to use systems for this type of software development, especially with their unified memory architecture.
+
+# Simulation Environment
 
 The organism(s) will "live" within an experimental simulation that will contain one or more environments (e.g., operant chambers, work sites) in which each environment is controlled by one or more state machines, and containing one or more organisms. 
 
