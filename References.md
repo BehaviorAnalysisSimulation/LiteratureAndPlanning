@@ -1,6 +1,7 @@
 <br><a name="amit-1989">Amit (1989)</a>
 Amit, D (1989). *Modeling Brain Function: The world of attractor neural networks*. Cambridge University Press. https://www.amazon.com/dp/0521421241 
-<br><a name="breland-breland-1961">Breland and Breland (1961)</a>
+
+<a name="breland-breland-1961"></a>
 Breland, K., & Breland, M. (1961). The misbehavior of organisms. *American Psychologist, 16*(11), 681–684.
 <br><a name="burgos-1996">Burgos (1996)</a>
 Burgos, J. E. (1996). *Computational Explorations of the Evolution of Artificial Neural Networks in Pavlovian Environments* \[Unpublished doctoral dissertation]. University of Massachusetts Amherst.
@@ -12,7 +13,7 @@ Donahoe, J. W. (1982). Skinner – The Darwin of ontogeny? _Behavioral and Brai
 <br><a name="donahoe-crowley-millard-stickney-1982">Donahoe, Crowley, Millard, and Stickney (1982)</a>
 Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982). A unified principle of reinforcement: Some implications for matching. In M. L. Commons, R. J. Herrnstein, & H. Rachlin (Eds.), *Quantitative analyses of behavior: Vol. 2. Matching and maximizing accounts* (pp. 493-521). Cambridge, MA: Ballinger.  https://www.amazon.com/dp/0884107396 
 
-<br><a name="donahoe-palmer-1989"></a>
+<a name="donahoe-palmer-1989">Donahoe and Palmer (1989)</a>
 Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing, Edited by J. L. McClelland, D. E. Rumelhart, and The PDP Research Group. _Journal of the Experimental Analysis of Behavior_, 51, 399-416. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1989.51-399 
 1. Rationale for combining behavior analysis with neural nets for modeling behavior, along with the TDD issues.
 2. Behavior analytic interpretation vs cognitive/computer-science interpretation:
