@@ -26,11 +26,7 @@ Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Be
 
 <a name="donahoe-burgos-palmer-1993"></a>
 Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17
-1. **Probably the best introduction to the SelNet bio-plausible artificial neural network and its operation.**
-2. Description of a "unified principle of reinforcement" (UPR).
-3. General description with schematics of example networks. No experiment here, just description.
-4. Describes several behavioral phenomena and procedures to illustrate the action on behavior of a neural net using dopaminergic and hippocampal signals as agents of selection.
-5. Learning and activation functions are described in the Appendix.
+- [Notes](../ReferenceNotes/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md)
 
 <a name="donahoe-palmer-carlson-1994"></a>
 Donahoe, J. W., Palmer, D. C., & Carlson, N. C. (1994). *Complex human behavior: A biobehavioral approach*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
