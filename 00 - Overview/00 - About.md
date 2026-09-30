@@ -3,9 +3,14 @@
 
 ### The Project
 
-The purpose of the overall project is to develop a virtual "insilico-organism" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
+The purpose of the overall project is to develop virtual "insilico-organisms" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
 
 This organism could ultimately be used to test "what if" behavioral scenarios as a cheap, fast, convenient way to test out behavior analytic ideas, procedures, etc. It could also be used in teaching and training.
+
+There are (more or less) three phases:
+1. Create a software environment for defining organisms, experimental procedures, running experiments, analyzing data.
+2. Replicate the existing SelNet experiments by Donahoe, Burgos, and others. These will be in [JEAB (Wiley)](https://onlinelibrary.wiley.com/journal/19383711) and in [Behavioural Processes (Elsevier)](https://www.sciencedirect.com/journal/behavioural-processes).
+3. Everything else 😂. This includes evolving the system to replicate all the behaviors that SelNet *apparently* cannot address (see "The Reality", below).
 
 ### This Document Set
 
