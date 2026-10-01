@@ -9,7 +9,7 @@ Breland, K., & Breland, M. (1961). The misbehavior of organisms. *American Psych
 Burgos, J. E. (1996). *Computational Explorations of the Evolution of Artificial Neural Networks in Pavlovian Environments* \[Unpublished doctoral dissertation]. University of Massachusetts Amherst.
 
 <a name="burgos-1997">Burgos (1997)</a>
-Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments. In J. W. Donahoe & V. Packard Dorsel (Eds.), _Neural-network models of cognition_ (pp. 58–81). North-Holland. https://www.amazon.com/dp/0444819312 *([private copy](Burgos_1997.pdf))*
+Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments. In J. W. Donahoe & V. Packard Dorsel (Eds.), _Neural-network models of cognition_ (pp. 58–81). North-Holland. https://www.amazon.com/dp/0444819312
 
 <a name="donahoe-1982">Donahoe (1982)</a>
 Donahoe, J. W. (1982). Skinner – The Darwin of ontogeny? _Behavioral and Brain Sciences_. 1984;7(4):487-488. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/skinner-the-darwin-of-ontogeny/0E576BA7E8298FB27B457B65D8E188B1
@@ -96,10 +96,8 @@ Nevin, J. A., Mandell, C., & Atak, J. R. (1983). The analysis of behavioral mome
 Railsback, S. F. & Grimm, V. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
 - The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
 - Also see: [Grimm & Railsback (2019)](./References.md#grimm-railsback-2019)
-
 <a name="rasmussen-clay-pierce-cheney-2022"></a>
-Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/
-
+Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/ ([**NOTES**](./ReferenceNotes/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md))
 <a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
 
