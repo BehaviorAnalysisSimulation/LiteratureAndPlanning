@@ -84,3 +84,6 @@ Given that I am 76 at the time of writing (Sept 2026), how far can I get before 
 
 - Previous: [README.md](../README.md)
 - Next: [02 - Project Background](./01%20-%20Project%20Background.md)
+
+---
+[References](../References.md)

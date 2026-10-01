@@ -67,3 +67,12 @@ Once the model reliably behaves as behavior analysis says it should,
 4. Add electrical interfaces to control robotic equipment
 5. Add electrical interfaces to Med Associates (and others) equipment
 6. ???
+
+
+---
+
+- Previous: []()
+- Next: []()
+
+---
+[References](../References.md)

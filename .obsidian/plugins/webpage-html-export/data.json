@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": true,
-    "exportPath": "/Users/tomd/Desktop/basim",
+    "exportPath": "/Users/tomd/Developer/GitHub/BehaviorAnalysisSimulation/LiteratureAndPlanning/html",
     "filesToExport": [
       "all"
     ],

@@ -38,3 +38,6 @@ The person who has done most of the work in this area is José Burgos. I will ev
 
 - Previous: [00 - About](./00%20-%20About.md)
 - Next: [02 - Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
+
+---
+[References](../References.md)
