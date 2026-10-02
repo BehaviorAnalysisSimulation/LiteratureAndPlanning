@@ -21,9 +21,8 @@ tags:
 Went looking for introductory material for three potential audiences. The prompt (to Claude.ai):
 
 >`What book would make the best introduction to the science of behavior (that is Behavior Analysis), for an undergraduate student in psychology, neuroscience, and computer science?`
-`
 
-The selection seemed reasonable, so I asked for a summary of each. Skinner's *Science and Human Behavior* is the only one I have read, and seems most fundamental (and is an easy read). So: I reordered Claude's list to put Skinner first pending my reading of Rasmussen, et al.
+The selections seemed reasonable as a starting point, so I asked for a summary of each. Skinner's *Science and Human Behavior* is the only one I have read, and seems most fundamental (and is an easy read). So: I reordered Claude's list to put Skinner first pending my reading of Rasmussen, et al., which Claude.ai listed first.
 
 I ***will*** read the others, update the summaries below, and create reference notes (annotations) linked from the reference list. 
 
