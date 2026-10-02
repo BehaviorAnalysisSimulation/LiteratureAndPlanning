@@ -1,5 +1,19 @@
-- **Author:** Tom Donaldson
-- **Email:** tedonaldsn@icloud.com
+---
+title: 01 - Project Background
+author: Tom Donaldson
+created: 2026-10-02
+license: CC-BY-4.0
+license-url: https://creativecommons.org/licenses/by/4.0/
+tags:
+  - literature-review
+---
+
+> [!info] License
+> © 2026 Tom Donaldson.
+> This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Third-party figures and quotations retain their original licenses.
+---
+
 ### Background
 
 This project will be a much delayed continuation of [BASimulation.org](https://basimulation.org). See:

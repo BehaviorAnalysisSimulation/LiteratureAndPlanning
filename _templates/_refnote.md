@@ -1,27 +1,25 @@
 ---
-title: Rasmussen, Clay, Pierce, and Cheney (2022)
-author: Tom Donaldson
-created: 2026-10-02
+title: "{{title}}"
+author: "Tom Donaldson"
+created: {{date:YYYY-MM-DD}}
 license: CC-BY-4.0
-license-url: https://creativecommons.org/licenses/by/4.0/
+license-url: "https://creativecommons.org/licenses/by/4.0/"
 tags:
   - literature-review
 ---
-
 > [!info] License
-> © 2026 Tom Donaldson.
+> © {{date:YYYY}} Tom Donaldson.
 > This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 > Third-party figures and quotations retain their original licenses.
 ---
 
-[Citation](../References.md#rasmussen-clay-pierce-cheney-2022)
+
+[Citation](../References.md#REFERENCE_TAG_GOES_HERE)
 
 ---
 
-
+*notes go here*
 
 ---
 
 [References](../References.md)
-
-

@@ -1,3 +1,18 @@
+---
+title: "References"
+author: "Tom Donaldson"
+created: 2026-10-02
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+tags:
+  - literature-review
+---
+> [!info] License
+> © 2026 Tom Donaldson.
+> This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Third-party figures and quotations retain their original licenses.
+---
+
 
 <a name="amit-1989">Amit (1989)</a>
 Amit, D (1989). *Modeling Brain Function: The world of attractor neural networks*. Cambridge University Press. https://www.amazon.com/dp/0521421241 
@@ -96,8 +111,10 @@ Nevin, J. A., Mandell, C., & Atak, J. R. (1983). The analysis of behavioral mome
 Railsback, S. F. & Grimm, V. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
 - The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
 - Also see: [Grimm & Railsback (2019)](./References.md#grimm-railsback-2019)
+
 <a name="rasmussen-clay-pierce-cheney-2022"></a>
-Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/ ([**NOTES**](./ReferenceNotes/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md))
+Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/ - ([**NOTES**](./ReferenceNotes/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md))
+
 <a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
 
