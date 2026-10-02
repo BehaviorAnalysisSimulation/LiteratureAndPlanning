@@ -226,7 +226,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "raw-documents",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",

@@ -26,6 +26,9 @@ Burgos, J. E. (1996). *Computational Explorations of the Evolution of Artificial
 <a name="burgos-1997">Burgos (1997)</a>
 Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments. In J. W. Donahoe & V. Packard Dorsel (Eds.), _Neural-network models of cognition_ (pp. 58–81). North-Holland. https://www.amazon.com/dp/0444819312
 
+<a name="catania-2013">Catania (2013)</a>
+Catania, A. C., (2013). *Learning, 5th Edition*. Sloan Publishing. https://www.amazon.com/Learning-5th-Charles-Catania/dp/1597380237/
+
 <a name="donahoe-1982">Donahoe (1982)</a>
 Donahoe, J. W. (1982). Skinner – The Darwin of ontogeny? _Behavioral and Brain Sciences_. 1984;7(4):487-488. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/skinner-the-darwin-of-ontogeny/0E576BA7E8298FB27B457B65D8E188B1
 
@@ -141,6 +144,9 @@ Skinner, B. F. (1974). *About Behaviorism*. Vintage Books. https://www.amazon.co
 
 <a name="skinner-1981"></a>
 Skinner, B. F. (1981). *Selection by Consequences*. Science, 213, 501-504. http://dx.doi.org/10.1126/science.7244649
+
+<a name="staddon-2016"></a>
+Staddon, J. E. R. (2016). *# Adaptive Behavior and Learning*. Cambridge University Press. https://www.amazon.com/dp/B01B1G7XWO
 
 <a name="timberlake-lucas-1989"></a>
 Timberlake, W., & Lucas, G. A. (1989). Behavior systems and learning. In S. B. Klein & R. R. Mowrer (Eds.), *Contemporary Learning Theories*. Erlbaum. https://www.amazon.com/Contemporary-Learning-Theories-Instrumental-Conditioning/dp/0898599156/
