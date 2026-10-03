@@ -1,17 +1,7 @@
----
-title: "References"
-author: "Tom Donaldson"
-created: 2026-10-02
-license: CC-BY-4.0
-license-url: "https://creativecommons.org/licenses/by/4.0/"
-tags:
-  - literature-review
----
-> [!info] License
-> © 2026 Tom Donaldson.
-> This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-> Third-party figures and quotations retain their original licenses.
----
+
+|                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| License © 2026 Tom Donaldson.<br>This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).<br>Third-party figures and quotations retain their original licenses. |
 
 
 <a name="amit-1989">Amit (1989)</a>
