@@ -1,8 +1,4 @@
 
-|                                                                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| License © 2026 Tom Donaldson.<br>This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).<br>Third-party figures and quotations retain their original licenses. |
-
 
 <a name="amit-1989">Amit (1989)</a>
 Amit, D (1989). *Modeling Brain Function: The world of attractor neural networks*. Cambridge University Press. https://www.amazon.com/dp/0521421241 
