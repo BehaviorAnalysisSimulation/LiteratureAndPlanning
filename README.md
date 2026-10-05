@@ -7,6 +7,10 @@ Such a virtual organism could ultimately be used to test "what if" behavioral sc
 
 Just getting back to this project after a seven year hiatus. I expect progress will be glacial: I'm old.
 
+Oh yeh, who is "I"? I'm an old software developer with a long-ago background in the experimental analysis of behavior. See 
+1. "Experience" on my [LinkedIn](hake-donaldson-hyten-1983) profile and,
+2. JEAB article: [Hake, Donaldson, & Hyten](./References.md#hake-donaldson-hyten-1983).
+
 ### Format
 
 The documents are in a common technical writing format frequently used in software development: [Markdown](https://en.wikipedia.org/wiki/Markdown).
@@ -28,7 +32,7 @@ The other way is via the "Next" link at the bottom of all pages that are part of
 
 ### License
 
-The non-code version of a libaral "open source". See [LICENSE](./LICENSE.md).
+The non-code version of a liberal "open source". See [LICENSE](./LICENSE.md).
 
 ---
 Next: [About](./00%20-%20Overview/00%20-%20About.md)
