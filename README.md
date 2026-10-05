@@ -8,7 +8,7 @@ Such a virtual organism could ultimately be used to test "what if" behavioral sc
 Just getting back to this project after a seven year hiatus. I expect progress will be glacial: I'm old.
 
 Oh yeh, who is "I"? I'm an old software developer with a long-ago background in the experimental analysis of behavior. See 
-1. "Experience" on my [LinkedIn](hake-donaldson-hyten-1983) profile and,
+1. "Experience" on my [LinkedIn](https://www.linkedin.com/in/tom-donaldson-a3879b87/) profile and,
 2. JEAB article: [Hake, Donaldson, & Hyten](./References.md#hake-donaldson-hyten-1983).
 
 ### Format
