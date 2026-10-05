@@ -43,6 +43,20 @@ Domains:
 
 The Donahoe, et al., model focussed on the consequence side of the "three term contingency". It worked well, as far as it went, but has limitations.
 
+Additional features of organisms will have to be added, both neurological and otherwise. 
+
+Critically, it is **NOT** possible to build a usable "naive" simulation ([Railsback & Grimm (2005)](../References.md#railsback-grimm-2005)) for at least two reasons:
+1. The neuroscience is not there. Neuroscience text books are FULL of comments to the effect that "much is not known yet" and "this is speculative but ...".
+2. Affordable hardware to implement a "naive" simulation does not exist.
+
+The simulation architecture will have to be heuristic, and not just heuristic, but heuristic in a principle way based on (but not replicating) the underlying organismic processes that give rise to the behavioral phenomena of behavior analysis.
+
+**Load bearing:** the simulation will **NOT** simulate neurologic or other organismic biologic functions except as required to suppport the behavior analytic "load". That is: **NO** neuroscience simulation for the sake of neuroscience.
+
+It should be possible to produce a simulated organism that behaves in accordance with behavior analysis using only principled heuristic neuro-simulations that are justified as critical "load bearing" processes. It should be doable on affordable hardware with the proper vendor supplied low-level software facilities, such as the Apple silicon ecosystem using the Swift programming language.
+
+***The real trick is to figure out what those load bearing structures and function are.***
+
 ### 1. SelNet as a starting point
 
 For example, try this prompt with your favorite AI ([or click here for a pre-computed Google AIMode response](https://share.google/aimode/A8UOZEQUxFiDkMyJl)):
