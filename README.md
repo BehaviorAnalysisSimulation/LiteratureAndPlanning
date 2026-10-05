@@ -1,7 +1,7 @@
 
 ### Purpose
 
-Retirement hobby project to develop a virtual "insilico-organism" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
+Retirement hobby project to develop a virtual "insilico-organism" that behaves in accord with the observations of behavior analysis as documented in [Skinner's work](https://www.bfskinner.org/bookstore/), [JEAB](https://onlinelibrary.wiley.com/journal/19383711), JABA, JVB, JOBM, etc.
 
 Such a virtual organism could ultimately be used to test "what if" behavioral scenarios as a cheap, fast, convenient way to test out behavior analytic ideas, procedures, etc. It could also be used in teaching and training.
 
