@@ -54,7 +54,7 @@ It should be possible to produce a simulated organism that behaves in accordance
 
 ### 1. SelNet as a starting point
 
-For example, try this prompt with your favorite AI ([or click here for a pre-computed Google AIMode response](https://share.google/aimode/A8UOZEQUxFiDkMyJl)):
+For example, try this prompt with your favorite AI (Google AI Mode does a pretty good job):
 
 ***`Critique the limitations of the Donahoe SelNet model in simulating the real-world observations of behavior analysis, especially as documented in JEAB and JABA`***
 
@@ -62,19 +62,19 @@ For example, try this prompt with your favorite AI ([or click here for a pre-com
 
 Solving these problems will be very difficult. One possibility is to integrate such as a [model thalamus](https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman-ebook/dp/B00P2AZAEO), and a [reticular activating system (RAS)](https://en.wikipedia.org/wiki/Reticular_formation), with the Donahoe model. 
 
-Add following prompt to the conversation started above ([or click here for a pre-computed Google AIMode response](https://share.google/aimode/VSPO7P39rt9w5I07n)):
+Add following prompt to the conversation started above:
 
 ***`How might integration of a simulated thalamus, or a simulated reticular activating system (RAS) affect the accuracy and validity of the simulations?`***
 
 ### 3. Best?
 
-The system would at this point still have problems. Might Thousand Brains Theory (TBT) help? Try adding one final prompt to the conversation ([or click here for a pre-computed Google AIMode response](https://share.google/aimode/BJf6PzkQyJhyuLKz1)):
+The system would at this point still have problems. Might Thousand Brains Theory (TBT) help? Try adding one final prompt to the conversation:
 
 ***`Might Thousand Brains Theory (TBT) somehow be integrated with the combined SelNet, thalamus, and RAS? If so, what would the impact be?`***
 
 ### 4. Is it even practical?
 
-But is it even possible on off the shelf, "inexpensive" computer hardware? Add the following prompt to your conversation ([or click here for pre-computed Google AIMode answer](https://share.google/aimode/agDNUF9Zc0JIE4Eso)):
+But is it even possible on off the shelf, "inexpensive" computer hardware? Add the following prompt to your conversation:
 
 ***`Assuming a strictly Apple ecosystem using the Swift language: how practical would a mouse model including TBT be, and what hardware would be required?`***
 
