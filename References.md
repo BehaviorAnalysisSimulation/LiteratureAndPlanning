@@ -18,7 +18,7 @@ Catania, A. C., (2013). *Learning, 5th Edition*. Sloan Publishing. https://www.a
 <a name="donahoe-1982">Donahoe (1982)</a>
 Donahoe, J. W. (1982). Skinner – The Darwin of ontogeny? _Behavioral and Brain Sciences_. 1984;7(4):487-488. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/skinner-the-darwin-of-ontogeny/0E576BA7E8298FB27B457B65D8E188B1
 
-<a name="donahoe-crowley-millard-stickney-1982">Donahoe, Crowley, Millard, and Stickney (1982)</a>
+<a name="donahoe-crowley-millard-stickney-1982"></a>
 Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982). A unified principle of reinforcement: Some implications for matching. In M. L. Commons, R. J. Herrnstein, & H. Rachlin (Eds.), *Quantitative analyses of behavior: Vol. 2. Matching and maximizing accounts* (pp. 493-521). Cambridge, MA: Ballinger.  https://www.amazon.com/dp/0884107396 
 
 <a name="donahoe-palmer-1989">Donahoe and Palmer (1989)</a>
