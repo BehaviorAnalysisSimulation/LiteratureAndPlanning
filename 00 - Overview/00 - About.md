@@ -44,7 +44,7 @@ Critically, it is **NOT** possible to build a usable "naive" simulation ([Railsb
 1. The neuroscience is not there. Neuroscience text books are FULL of comments to the effect that "much is not known yet" and "this is speculative but ...".
 2. Affordable hardware to implement a "naive" simulation does not exist.
 
-The simulation architecture will have to be heuristic, and not just heuristic, but heuristic in a principle way based on (but not replicating) the underlying organismic processes that give rise to the behavioral phenomena of behavior analysis.
+The simulation architecture will have to be heuristic, and not just heuristic, but heuristic in a principled way based on (but not replicating) the underlying organismic processes that give rise to the behavioral phenomena of behavior analysis.
 
 **Load bearing:** the simulation will **NOT** simulate neurologic or other organismic biologic functions except as required to suppport the behavior analytic "load". That is: **NO** neuroscience simulation for the sake of neuroscience.
 
