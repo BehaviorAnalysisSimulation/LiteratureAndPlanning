@@ -15,12 +15,15 @@ There are (more or less) four phases:
 
 These are my working notes. They in some way represent my current knowledge regarding topics related to the project.
 
+I will try to provide enough information to allow folks from all of the required domains to get a sense of what this project is doing, and to provide them a foothold. See [Interdisciplinary](./00%20-%20About.md#interdisciplinary), below.
+
 They will change. They will probably be somewhat inconsistent, incorrect, speculative. 
 
 Mostly, these documents are an attempt to record information in a somewhat organized manner that facilitates usage. 
 
 I generally keep a work diary of some sort, which is fine for tracing how and why I did something in sequence. Such diaries are not terribly easy to use as a reference. I will probably keep a diary for this project also, but will extract "conclusions" from the diary and organize them in this doc.
 
+<a name="interdisciplinary"></a>
 # Interdisciplinary
 
 This project is primarily about behavior analysis, but it is not just a behavior analysis project, nor is it just a neuroscience or software development project. 
