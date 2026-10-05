@@ -26,6 +26,10 @@ One way to navigate through the document set is via the GitHub navigation panel.
 
 The other way is via the "Next" link at the bottom of all pages that are part of a structured sequence.
 
+### License
+
+The non-code version of a libaral "open source". See [LICENSE](./LICENSE.md).
+
 ---
 Next: [About](./00%20-%20Overview/00%20-%20About.md)
 
