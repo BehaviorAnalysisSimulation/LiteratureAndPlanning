@@ -17,7 +17,7 @@ These are my working notes. They in some way represent my current knowledge rega
 
 I will try to provide enough information to allow folks from all of the required domains to get a sense of what this project is doing, and to provide them a foothold. See [Interdisciplinary](./00%20-%20About.md#interdisciplinary), below.
 
-They will change. They will probably be somewhat inconsistent, incorrect, speculative. 
+This is a working document. It will change. It will probably often be somewhat incomplete, inconsistent, incorrect, speculative. 
 
 Mostly, these documents are an attempt to record information in a somewhat organized manner that facilitates usage. 
 
