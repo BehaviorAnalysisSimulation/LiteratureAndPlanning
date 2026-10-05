@@ -13,7 +13,9 @@ Hmmm, will probably link the ref notes from here in place of the inline text. Al
 
 Yes, I tend to favor the old stuff. Couple of reason's. First, I have been working as a software developer since 1982 and have not really kept up with behavior analysis. Second: I'm old.
 
-### Summaries
+### Summaries (Claude.ai)
+
+Taking Claude.ai's summaries as is for the moment ...
 
 ## 1. [Skinner, _Science and Human Behavior_ (1953)](../References.md#skinner-1953)
 

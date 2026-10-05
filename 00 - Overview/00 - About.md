@@ -1,17 +1,15 @@
 
 ### The Project
 
-The purpose of the overall project is to develop virtual "insilico-organisms" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
+The purpose of the overall project is to develop virtual "insilico-organisms" that behave in accord with the observations of behavior analysis as documented in Skinner's work, **JEAB**, JABA, JVB, JOBM, etc.  
 
-> fubar framis
-> 
+This organism could ultimately be used to test "what if" behavioral scenarios as a cheap, fast, convenient way to test out behavior analytic ideas, procedures, etc. It could also be used in teaching and training. 
 
-This organism could ultimately be used to test "what if" behavioral scenarios as a cheap, fast, convenient way to test out behavior analytic ideas, procedures, etc. It could also be used in teaching and training.
-
-There are (more or less) three phases:
-1. Create a software environment for defining organisms, experimental procedures, running experiments, analyzing data.
-2. Replicate the existing SelNet experiments by Donahoe, Burgos, and others. These will be in [JEAB (Wiley)](https://onlinelibrary.wiley.com/journal/19383711) and in [Behavioural Processes (Elsevier)](https://www.sciencedirect.com/journal/behavioural-processes).
-3. Everything else 😂. This includes evolving the system to replicate all the behaviors that SelNet *apparently* cannot address (see "The Reality", below).
+There are (more or less) four phases:
+1. Informal working literature review: existing SelNet literature (mostly by José Burgos); what's been done/not done; limitations of the purely selectionist simulations; behavioral neuroscience mapping critical "load bearing" neuroscience structure/function to behavior analytic processes, etc. See [Reality Check](./00%20-%20About.md#reality-check) below.
+2. Create a software environment for defining organisms, experimental procedures, running experiments, analyzing data. Issues here will be how to simulated the required "load bearing" neural processes efficiently on an affordable computer system (i.e., Apple silicon).
+3. Replicate the existing SelNet experiments by Donahoe, Burgos, and others. These will be in [JEAB (Wiley)](https://onlinelibrary.wiley.com/journal/19383711) and in [Behavioural Processes (Elsevier)](https://www.sciencedirect.com/journal/behavioural-processes).
+4. Everything else 😂. This includes evolving the system to replicate all the behaviors that SelNet *apparently* cannot address (see "The Reality", below).
 
 ### This Document Set
 
@@ -25,16 +23,20 @@ I generally keep a work diary of some sort, which is fine for tracing how and wh
 
 # Interdisciplinary
 
-This is not just a behavior analysis project, nor is it just a neuroscience or software development project. 
+This project is primarily about behavior analysis, but it is not just a behavior analysis project, nor is it just a neuroscience or software development project. 
 
 [Donahoe, Palmer, and Burgos (1993)](../References.md#donahoe-burgos-palmer-1993) refer to this type of analysis/simulation as "biological behaviorism" or "biobehaviorism". This JEAB article is probably the best overview of the nature of the methodology, and where it comes from. Much has changed since its publication.
 
+For a more recent take on "biobehaviorism", see [Rasmussen, Clay, Pierce, and Cheney (2022)](../References.md#rasmussen-clay-pierce-cheney-2022)
+
+Domains:
 - [Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
 - [Behavioral Neuroscience](03%20-%20Behavioral%20Neuroscience.md)
 - [Neuroscience](04%20-%20Neuroscience.md)
 - [Software Development](05%20-%20Software%20Development.md)
 
-# The Reality
+<a name="reality-check"></a>
+# Reality Check
 
 The Donahoe, et al., model focussed on the consequence side of the "three term contingency". It worked well, as far as it went, but has limitations.
 

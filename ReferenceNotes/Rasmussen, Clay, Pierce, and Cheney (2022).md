@@ -14,6 +14,10 @@ Did an online search using Claude.ai for a book to recommend as an introduction 
 
 As of October 2026 I had never seen this book. I will give it a quick read and jot down a few notes here.
 
+# Contents & Preface
+
+
+
 ---
 
 [References](../References.md)
