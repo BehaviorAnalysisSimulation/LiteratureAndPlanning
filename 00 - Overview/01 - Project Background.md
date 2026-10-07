@@ -34,5 +34,3 @@ The old demo code is worthless. Its intent was very simply to help me visualize 
 ---
 [References](../References.md)
 
-[test](./00%20-%20About.md#jose-burgos)
-
