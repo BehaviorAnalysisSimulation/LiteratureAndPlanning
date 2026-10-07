@@ -78,6 +78,18 @@ But is it even possible on off the shelf, "inexpensive" computer hardware? Add t
 
 ***`Assuming a strictly Apple ecosystem using the Swift language: how practical would a mouse model including TBT be, and what hardware would be required?`***
 
+# Practicality: Design Time vs Release Time
+
+**TODO:** *References?*
+
+One bit of unattributed advice that has been part of the software development culture, and which experience has shown to be true over and over again:
+
+- Design software for the hardware that will be extant when the software is to be released, not for the hardware that exists at design time.
+
+This argues for developing scalable software. For example, it could be that when including all of the neural functionality suggested above, we might be able to only fully simulate a mouse, at best. As more capable hardware becomes affordable, we should be able to create configurations that simulate more "capable" organisms, even to the level of language understanding and generation. This might be done by, for example, implementing configurable cortical columns: layers within columns, neurons in layers, number of columns in the "brain", etc.
+
+After hours discussing all of this with multiple AI's it is clearly much more complicated than that, but solvable. And as a software developer, it looks like a lovely challenge.
+
 # JEAB as the main Driver
 
 JEAB, as an archival journal, presents large numbers of experiments and results covering a very large number of behaviors, concepts. As such, it represents in a clear manner what the insilico organism must do, what tests it must pass. 
@@ -86,7 +98,7 @@ In software development there is the practice of "test-first development" in whi
 
 JEAB experiments define the final tests for any major development cycle. When the insilico organism can take part in such an experiment and produce the same results, the development has succeeded for that particular experiment. Of course this is much much more complicated than stated here (e.g., what is meant by "same results", how evaluated?). Each software setup for each experiment is added to the overall suite of tests, and the entire suite must be passed. If modifying the software to get it to pass for one experiment causes failures in other tests: rinse repeat.
 
-### The big single-item bucket list
+### My Bucket List: One Item
 
 The above illustrates the scale of the project to produce an artificial organism with a clean and principled architecture that can faithfully reproduce behavior analytically valid behavior. Whatever architecture, the final tests are dictated by JEAB, JABA, etc. Neurological fidelity/simulation is only important so far as it is "load bearing" in producing valid behavior.
 
