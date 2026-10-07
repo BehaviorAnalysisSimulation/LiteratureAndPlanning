@@ -80,15 +80,15 @@ But is it even possible on off the shelf, "inexpensive" computer hardware? Add t
 
 # Practicality: Design Time vs Release Time
 
-**TODO:** *References?*
-
-One bit of unattributed advice that has been part of the software development culture, and which experience has shown to be true over and over again:
+Here is one bit of unattributed advice that has been part of the software development culture at least since I took a job in the DC metro area in 1985, and which experience has shown to be true over and over again:
 
 - Design software for the hardware that will be extant when the software is to be released, not for the hardware that exists at design time.
 
 This argues for developing scalable software. For example, it could be that when including all of the neural functionality suggested above, we might be able to only fully simulate a mouse, at best. As more capable hardware becomes affordable, we should be able to create configurations that simulate more "capable" organisms, even to the level of language understanding and generation. This might be done by, for example, implementing configurable cortical columns: layers within columns, neurons in layers, number of columns in the "brain", etc.
 
 After hours discussing all of this with multiple AI's it is clearly much more complicated than that, but solvable. And as a software developer, it looks like a lovely challenge.
+
+I can get started with my ancient Apple M1 Studio with a paltry 64GB of unified memory, 10 CPU cores, 32 GPUs, and 16 neural engines. I will take me a year or two to outgrow it. Maybe my next machine will be an Apple Studio with M7 Ultra???
 
 # JEAB as the main Driver
 
