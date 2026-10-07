@@ -98,7 +98,7 @@ In software development there is the practice of "test-first development" in whi
 
 JEAB experiments define the final tests for any major development cycle. When the insilico organism can take part in such an experiment and produce the same results, the development has succeeded for that particular experiment. Of course this is much much more complicated than stated here (e.g., what is meant by "same results", how evaluated?). Each software setup for each experiment is added to the overall suite of tests, and the entire suite must be passed. If modifying the software to get it to pass for one experiment causes failures in other tests: rinse repeat.
 
-### My Bucket List: One Item
+# My Bucket List: One Item
 
 The above illustrates the scale of the project to produce an artificial organism with a clean and principled architecture that can faithfully reproduce behavior analytically valid behavior. Whatever architecture, the final tests are dictated by JEAB, JABA, etc. Neurological fidelity/simulation is only important so far as it is "load bearing" in producing valid behavior.
 
