@@ -88,7 +88,7 @@ This argues for developing scalable software. For example, it could be that when
 
 After hours discussing all of this with multiple AI's it is clearly much more complicated than that, but solvable. And as a software developer, it looks like a lovely challenge.
 
-I can get started with my ancient Apple M1 Studio with a paltry 64GB of unified memory, 10 CPU cores, 32 GPUs, and 16 neural engines. I will take me a year or two to outgrow it. Maybe my next machine will be an Apple Studio with M7 Ultra???
+I can get started with my ancient Apple Studio M1 Max with a paltry 64GB of unified memory, 10 CPU cores, 32 GPUs, and 16 neural engines. It will take me a year or two to outgrow it, given my need to do a lit review and build an experimental framework akin to the one shown here: [BASimulation.org: Update: Two Years After](https://basimulation.org/2019/07/10/update-two-years-after/). That's a lot of low-compute-demand work. Maybe my next machine will be an Apple Studio with M7 Ultra???
 
 # JEAB as the main Driver
 
