@@ -86,7 +86,7 @@ Here is one bit of unattributed advice that has been part of the software develo
 
 This argues for developing scalable software. For example, it could be that when including all of the neural functionality suggested above, I might be able to only fully simulate a mouse on my current hardware, at best. As more capable hardware becomes affordable, I should be able to create configurations that simulate more "capable" organisms, even to the level of language understanding and generation. This might be done by, for example, implementing configurable cortical columns: layers within columns, neurons in layers, number of columns in the "brain", etc.
 
-After hours discussing all of this with multiple AI's it is clearly much more complicated than that, but solvable. And as a software developer, it looks like a lovely challenge.
+After hours discussing all of this with multiple AI's it is clearly much more complicated than it sounds, but it is solvable. And as a software developer, it looks like a lovely challenge.
 
 I can get started with my ancient Apple Studio M1 Max with a paltry 64GB of unified memory, 10 CPU cores, 32 GPUs, and 16 neural engines. It will take me a year or two to outgrow it, given my need to do a lit review and build an experimental framework akin to the one shown here: [BASimulation.org: Update: Two Years After](https://basimulation.org/2019/07/10/update-two-years-after/). That's a lot of low-compute-demand work. Maybe my next machine will be an Apple Studio with M7 Ultra???
 
