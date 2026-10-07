@@ -6,7 +6,7 @@ The purpose of the overall project is to develop virtual "insilico-organisms" th
 This organism could ultimately be used to test "what if" behavioral scenarios as a cheap, fast, convenient way to test out behavior analytic ideas, procedures, etc. It could also be used in teaching and training. 
 
 There are (more or less) four phases:
-1. Informal working literature review: existing SelNet literature (mostly by José Burgos); what's been done/not done; limitations of the purely selectionist simulations; behavioral neuroscience mapping critical "load bearing" neuroscience structure/function to behavior analytic processes, etc. See [Reality Check](./00%20-%20About.md#reality-check) below.
+1. Informal working literature review: existing SelNet literature (mostly by [José Burgos](./00%20-%20About.md#jose-burgos)); what's been done/not done; limitations of the purely selectionist simulations; behavioral neuroscience mapping critical "load bearing" neuroscience structure/function to behavior analytic processes, etc. See [Reality Check](./00%20-%20About.md#reality-check) below.
 2. Create a software environment for defining organisms, experimental procedures, running experiments, analyzing data. Issues here will be how to simulated the required "load bearing" neural processes efficiently on an affordable computer system (i.e., Apple silicon).
 3. Replicate the existing SelNet experiments by Donahoe, Burgos, and others. These will be in [JEAB (Wiley)](https://onlinelibrary.wiley.com/journal/19383711) and in [Behavioural Processes (Elsevier)](https://www.sciencedirect.com/journal/behavioural-processes).
 4. Everything else 😂. This includes evolving the system to replicate all the behaviors that SelNet *apparently* cannot address (see [Reality Check](./00%20-%20About.md#reality-check), below).
@@ -84,7 +84,7 @@ Here is one bit of unattributed advice that has been part of the software develo
 
 - Design software for the hardware that will be extant when the software is to be released, not for the hardware that exists at design time.
 
-This argues for developing scalable software. For example, it could be that when including all of the neural functionality suggested above, we might be able to only fully simulate a mouse, at best. As more capable hardware becomes affordable, we should be able to create configurations that simulate more "capable" organisms, even to the level of language understanding and generation. This might be done by, for example, implementing configurable cortical columns: layers within columns, neurons in layers, number of columns in the "brain", etc.
+This argues for developing scalable software. For example, it could be that when including all of the neural functionality suggested above, I might be able to only fully simulate a mouse on my current hardware, at best. As more capable hardware becomes affordable, I should be able to create configurations that simulate more "capable" organisms, even to the level of language understanding and generation. This might be done by, for example, implementing configurable cortical columns: layers within columns, neurons in layers, number of columns in the "brain", etc.
 
 After hours discussing all of this with multiple AI's it is clearly much more complicated than that, but solvable. And as a software developer, it looks like a lovely challenge.
 
@@ -105,6 +105,16 @@ The above illustrates the scale of the project to produce an artificial organism
 This is NOT artificial intelligence (AI). This is behavior simulation. Much more in line with Alan Turing's notion of mimicking behavior than it is with the cognitive psychology (computer science) that came after.
 
 Given that I am 76 at the time of writing (Sept 2026), how far can I get before dementia or death ends me?
+
+---
+
+<a name="jose_burgos"></a>
+# José Burgos
+
+The person who has done most of the work in this area is José Burgos. I will eventually add a copy of [his 1996 dissertation](../References.md#burgos-1996) to this project, after re-confirming that I have permission. Similarly, I will extract chunks of the sporadic email conversations we have had over the years. 
+
+- [GitHub: jeburgos-selnet](https://github.com/jeburgos-selnet)
+- [J. E. Burgos's Lab @ University of Guadalajara](https://www.researchgate.net/lab/J-E-Burgos-Lab)
 
 
 ---

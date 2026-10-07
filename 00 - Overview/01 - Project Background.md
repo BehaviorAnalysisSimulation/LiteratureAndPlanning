@@ -26,13 +26,6 @@ The old demo code is worthless. Its intent was very simply to help me visualize 
 
 "Starting over" was further delayed by the need to address health issues. Getting old is not for the feint of heart. So the starting over date is more like October 2026. 
 
-# José Burgos
-
-The person who has done most of the work in this area is José Burgos. I will eventually add a copy of [his 1996 dissertation](../References.md#burgos-1996) to this project, after re-confirming that I have permission. Similarly, I will extract chunks of the sporadic email conversations we have had over the years. 
-
-- [GitHub: jeburgos-selnet](https://github.com/jeburgos-selnet)
-- [J. E. Burgos's Lab @ University of Guadalajara](https://www.researchgate.net/lab/J-E-Burgos-Lab)
-
 ---
 
 - Previous: [00 - About](./00%20-%20About.md)
