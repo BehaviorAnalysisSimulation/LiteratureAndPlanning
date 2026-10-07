@@ -2,7 +2,6 @@
 ### Background
 
 This project will be a much delayed continuation of [BASimulation.org](https://basimulation.org). See:
-- [About](https://basimulation.org/about/)
 - [History](https://basimulation.org/history/)
 - [Update: Two Years After (July 2019)](https://basimulation.org/2019/07/10/update-two-years-after/)
 
