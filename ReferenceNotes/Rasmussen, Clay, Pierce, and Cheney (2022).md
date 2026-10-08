@@ -18,7 +18,7 @@ As of October 2026 I had never seen this book. I will give it a quick read and j
 
 Primarily an experimental analysis of behavior (EAB) book, with neural mechanisms, behavior-gene interactions, and epigenetics mixed in. Not until chapter 13 do they address applied behavior analysis (ABA). For me this is the perfect approach for an intro book: start with the basic building blocks, especially since this project intends to actually *implement* the underlying mechanisms and build on them.
 
-Interesting line from the preface: "We recognize the importance of ***heterogeneous reductionism*** (Marr, 1977; [Marr & Zilio, 2013](https://www.tandfonline.com/doi/abs/10.1080/15021149.2013.11434458)) -- the explaining of phenomena on multiple levels (e.g., neural and the behavioral) -- as creating a more complete science." *(I have not included these references in my reference list, at least not yet.)*
+Interesting line from the preface: "We recognize the importance of ***heterogeneous reductionism*** (Marr, 1977; [Marr & Zilio, 2013](../References.md#marr-zilio-2013)) -- the explaining of phenomena on multiple levels (e.g., neural and the behavioral) -- as creating a more complete science." 
 
 # Chapter 1: A Science of Behavior: Perspective, History, and Assumptions
 
