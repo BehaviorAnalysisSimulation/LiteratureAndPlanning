@@ -7,7 +7,7 @@ Amit, D (1989). *Modeling Brain Function: The world of attractor neural networks
 Breland, K., & Breland, M. (1961). The misbehavior of organisms. *American Psychologist, 16*(11), 681–684.
 
 <a name="burgos-1996">Burgos (1996)</a>
-Burgos, J. E. (1996). *Computational Explorations of the Evolution of Artificial Neural Networks in Pavlovian Environments* \[Unpublished doctoral dissertation]. University of Massachusetts Amherst.
+Burgos, J. E. (1996). *Computational Explorations of the Evolution of Artificial Neural Networks in Pavlovian Environments* [Unpublished doctoral dissertation *(with permission)*](./Resources/Burgos%20(1996).pdf). University of Massachusetts Amherst. 
 
 <a name="burgos-1997">Burgos (1997)</a>
 Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments. In J. W. Donahoe & V. Packard Dorsel (Eds.), _Neural-network models of cognition_ (pp. 58–81). North-Holland. https://www.amazon.com/dp/0444819312
