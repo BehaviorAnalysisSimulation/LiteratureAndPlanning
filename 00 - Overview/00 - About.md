@@ -117,8 +117,8 @@ José is the person who has done the most work in this area.
 - [J. E. Burgos's Lab @ University of Guadalajara](https://www.researchgate.net/lab/J-E-Burgos-Lab)
 
 See references:
-- [Burgos (1996)](../References.md#burgos-1996)
-- [Burgos (1997)](../References.md#burgos-1997)
+- [Burgos, J. E. (1996). *Computational Explorations of the Evolution of Artificial Neural Networks in Pavlovian Environments*](../References.md#burgos-1996)
+- [Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments.](../References.md#burgos-1997)
 - *many more to come*
 
 ---
