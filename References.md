@@ -1,5 +1,11 @@
 
+# Format
 
+More or less [APA style](https://apastyle.apa.org/style-grammar-guidelines). 
+
+Major difference is the addition of annotations. If annotations exist, they are linked at the end of the citation as ***(NOTES)***. No real pattern to the note taking. I sometimes take notes as I skim/read an article/book/whatever to remind myself why I would care about a particular references (especially if I have already read it and don't remember why I kept it and end up re-perusing it).
+
+# Alphabetic/Date List
 <a name="amit-1989"></a>
 Amit, D (1989). *Modeling Brain Function: The world of attractor neural networks*. Cambridge University Press. https://www.amazon.com/dp/0521421241 
 
