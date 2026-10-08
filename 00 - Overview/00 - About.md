@@ -111,11 +111,15 @@ Given that I am 76 at the time of writing (Sept 2026), how far can I get before 
 <a name="jose-burgos"></a>
 # José Burgos
 
-José is the person who has done the most work in this area. I will eventually add a copy of [his 1996 dissertation](../References.md#burgos-1996) to this project, after re-confirming that I have permission. Similarly, I will extract chunks of the sporadic email conversations we have had over the years. 
+José is the person who has done the most work in this area.
 
 - [GitHub: jeburgos-selnet](https://github.com/jeburgos-selnet)
 - [J. E. Burgos's Lab @ University of Guadalajara](https://www.researchgate.net/lab/J-E-Burgos-Lab)
 
+See references:
+- [Burgos (1996)](../References.md#burgos-1996)
+- [Burgos (1997)](../References.md#burgos-1997)
+- *many more to come*
 
 ---
 
