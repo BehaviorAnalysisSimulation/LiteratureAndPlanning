@@ -18,10 +18,10 @@ Burgos, J. E. (1996). *Computational Explorations of the Evolution of Artificial
 <a name="burgos-1997"></a>
 Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments. In J. W. Donahoe & V. Packard Dorsel (Eds.), _Neural-network models of cognition_ (pp. 58–81). North-Holland. https://www.amazon.com/dp/0444819312
 
-<a name="catania-2013">Catania (2013)</a>
+<a name="catania-2013"></a>
 Catania, A. C., (2013). *Learning, 5th Edition*. Sloan Publishing. https://www.amazon.com/Learning-5th-Charles-Catania/dp/1597380237/
 
-<a name="donahoe-1982">Donahoe (1982)</a>
+<a name="donahoe-1982"></a>
 Donahoe, J. W. (1982). Skinner – The Darwin of ontogeny? _Behavioral and Brain Sciences_. 1984;7(4):487-488. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/skinner-the-darwin-of-ontogeny/0E576BA7E8298FB27B457B65D8E188B1
 
 <a name="donahoe-crowley-millard-stickney-1982"></a>
