@@ -1,0 +1,68 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Documentation build output
+docs/_build/
+docs/build/
+site/
+public/
+
+# pdoc
+docs/api/
+
+# Sphinx
+_build/
+.doctrees/
+
+# MkDocs
+.cache/
+
+# mdBook
+book/
+
+# Swift-DocC / SwiftPM
+.build/
+.swiftpm/
+*.doccarchive
+DerivedData/
+
+# Obsidian — machine-specific state (ignore); plugins/themes/snippets under
+# .obsidian/ are shareable configuration and are not listed here
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+.obsidian/cache
+.obsidian/.DS_Store
+.trash/
+
+# Obsidian HTML export output (Webpage HTML Export, ObsidianHtml)
+html/
+out/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (if doc build uses a venv/tooling)
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node (if doc build uses JS tooling, e.g. Docusaurus, VitePress)
+node_modules/
+.npm/
+
+# Logs
+*.log
