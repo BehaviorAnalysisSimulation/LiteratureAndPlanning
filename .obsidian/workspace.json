@@ -263,7 +263,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 286,
+        "x": 46,
         "y": 30,
         "width": 1254,
         "height": 1783,
@@ -272,10 +272,10 @@
       }
     ]
   },
-  "active": "089aad20269cedc7",
+  "active": "867f38ad729e3d88",
   "lastOpenFiles": [
-    "00 - Overview/02 - Behavior Analysis.md",
     "TODO - LIBRARIES.md",
+    "00 - Overview/02 - Behavior Analysis.md",
     "References.md",
     "ReferenceNotes/Rasmussen, Clay, Pierce, and Cheney (2022).md",
     "00 - Overview/01 - Project Background.md",
