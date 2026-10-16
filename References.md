@@ -81,6 +81,9 @@ Honig, W. K., & Staddon, J. E. R. (Eds.). (1977/2022). *Handbook of Operant Beha
 <a name="johnston-pennypacker-2008"></a>
 Johnston, J. M., & Pennypacker, H. S. (2008). *Strategies and Tactics of Behavioral Research* (3rd ed.). Routledge. https://www.amazon.com/dp/B008AU8S74
 
+<a name="johnston-green-2019"></a>
+Johnston, J. M., & G. Green (2019). *Strategies and Tactics of Behavioral Research and Practice* (4th ed.). Routledge. https://www.amazon.com/Strategies-Tactics-Behavioral-Research-Practice-ebook/dp/B0GFGQGC3C
+
 <a name="keller-shcoenfeld-1950"></a>
 Keller, F. S., Schoenfeld, W. N. (1950). *Principles of Psychology: A Systematic Text in the Science of Behavior*. Appleton-Century-Crofts. https://www.bfskinner.org/product/principles-of-psychology-pdf/ 
 
