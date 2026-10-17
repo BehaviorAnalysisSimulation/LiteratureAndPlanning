@@ -8,6 +8,8 @@ Early chapters cover basics of behavior analysis. Pretty much the standard stuff
 
 Nice to see that [Sidman (1960)](../References.md#sidman-1960) is referenced throughout with regard to experimental design/interpretation. Sidman's work has aged well over the past 5+ decades.
 
+### Missing material?
+
 Discussion of "Delayed Conditioning" (pg. 89) evokes "behavioral discrepancy", as discussed in [Donahoe, Burgos, & Palmer (1993)](../References.md#donahoe-burgos-palmer-1993), section "Toward a Biobehavioral Principle of Reinforcement", which includes subsection "A Unified Principle of Reinforcement". This is the earliest article laying out details of their bio-plausible artificial neural network, which they call SelNet.
 
 This prompted me to search for references to Donahoe's work in this book. The only one is to a much later work (which I have not yet read). That is a very odd ommision for this 2022 book, which is titled "*Behavior Analysis and Learning: A Biobehavioral Approach"*. Especially since [Donahoe & Palmer (1994) eds.](../References.md#donahoe-palmer-1994) is an entire book on behavior analysis from a biobehavioral perspective. The JEAB article [Donahoe, Burgos, & Palmer (1993)](../References.md#donahoe-burgos-palmer-1993) is almst entirely about a biobehavioral approach. Rasmussen, et al., seem to have skipped all of the foundational biobehavioral literature in behavior analysis. Why?
