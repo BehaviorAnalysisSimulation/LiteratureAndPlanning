@@ -14,7 +14,8 @@ Discussion of "Delayed Conditioning" (pg. 89) evokes "behavioral discrepancy", a
 
 This prompted me to search for references to Donahoe's work in this book. The only one is to a much later work (which I have not yet read). That is a very odd ommision for this 2022 book, which is titled "*Behavior Analysis and Learning: A Biobehavioral Approach"*. Especially since [Donahoe & Palmer (1994) eds.](../References.md#donahoe-palmer-1994) is an entire book on behavior analysis from a biobehavioral perspective. The JEAB article [Donahoe, Burgos, & Palmer (1993)](../References.md#donahoe-burgos-palmer-1993) is almst entirely about a biobehavioral approach. Rasmussen, et al., seem to have skipped all of the foundational biobehavioral literature in behavior analysis. Why?
 
-
+Suggestion: stop here and check out these references first:
+1. xxx
 
 ---
 
