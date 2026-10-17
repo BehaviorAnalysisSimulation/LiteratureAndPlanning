@@ -37,8 +37,8 @@ Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Be
 <a name="donahoe-burgos-palmer-1993"></a>
 Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17 ([***NOTES***](./ReferenceNotes/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md))
 
-<a name="donahoe-palmer-carlson-1994"></a>
-Donahoe, J. W., Palmer, D. C., & Carlson, N. C. (1994). *Complex human behavior*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
+<a name="donahoe-palmer-1994"></a>
+Donahoe, J. W., Palmer, D. C. (1994). *Complex human behavior*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
 
 <a name="falk-1961"></a>
 Falk, J. L. (1961). Production of polydipsia in normal rats by an intermittent food schedule. *Science, 133*, 195–196.
