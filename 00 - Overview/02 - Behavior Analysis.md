@@ -23,9 +23,11 @@ Also known as "biobehavioral approach", "biobehaviorsm".
 
 This is where this simulation project starts. These works are the foundation.
 
-As far back as [Skinner, B.F. (1938)](../References.md#skinner-1938) (page 454 in PDF, page 422 in hardcover?), Skinner noted:
+As far back as [Skinner, B.F. (1938)](../References.md#skinner-1938) (page 454 in PDF, page 422 in hardcover?), Skinner noted (emphasis mine):
 
- >"What is generally not understood by those interested in establishing neurological bases is that a rigorous description at the level of behavior is necessary for the demonstration of a neurological correlate. The discovery of neurological facts may proceed independently of a science of behavior if the facts are directly observed as structural and functional changes in tissue, but before such a fact may be shown to account for a fact of behavior, both must be quantitatively described and shown to correspond in all their properties."
+ >"What is generally not understood by those interested in establishing neurological bases is that a ***rigorous description at the level of behavior is necessary*** for the demonstration of a neurological correlate. The discovery of neurological facts may proceed independently of a science of behavior if the facts are directly observed as structural and functional changes in tissue, but before such a fact may be shown to account for a fact of behavior, both must be quantitatively described and shown to correspond in all their properties."
+ 
+ We are not really there yet, but currently in 2026 we do know quite a bit more about neuroscience and about behavior than in 1938. In this simulation project we can ***start*** with ***rigorous descriptions at the level of behavior***, as documented in JEAB and other places. These descriptions provide a large number of test cases for the simulation, and will be the primary means of testing whether the simulation has implemented all of the necessary "load bearing" neurological functions for each test case, and for the suite of tests as a whole.
 
 The earliest references within behavior analysis seem to be in the work of Donahoe, et al., which define the field:
 1. [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) *The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing*. Great article comparing/contrasting behavior analytic and cognitive approaches to complex behavior, and the use of neural nets in modeling behavior. 
