@@ -14,7 +14,7 @@ The books are referenced hundreds, if not thousands of times throughout the EAB 
 
 ### Moving On
 
-I have not read the Catania learning book. But having attended many of his presentations at ABA and read many of his JEAB articles, I am confident in recommending this 2013 book. Good way to span the years from Skinner's old works to today.
+I have not read the [Catania](https://www.abainternational.org/constituents/bios/charlescatania.aspx) learning book. But having attended many of his presentations at [ABA](https://www.abainternational.org/welcome.aspx) and read many of his JEAB articles, I am confident in recommending this 2013 book. Good way to span the years from Skinner's old works to today.
 - [Catania, A.C. (2013)](../References.md#catania-2013). *Learning, 5th Edition*
 
 ### Biological Behaviorism
@@ -29,7 +29,7 @@ The earliest references within behavior analysis seem to be in the work of Donah
 3. [Donahoe, J. W., Palmer, D. C. (1994)](../References.md#donahoe-palmer-1994). *Complex human behavior*. The first sentence of the preface: "This book draws upon basic biobehavioral processes to provide a conceptually coherent approach to understanding complex human behavior".
 4. [Donahoe, J.W., and Dorsel, V.P. (1997)](../References.md#donahoe-dorsel-1997). *Neural-Network Models of Cognition: Biobehavioral Foundations*. 
 
-The following book *could* be used as an intro to the experimental analysis of behavior (EAB). However, it does incorporate neuroscience throughout. 
+The following book *could* be used as an intro to the experimental analysis of behavior (EAB). However, it does incorporate neuroscience throughout. Not sure why it never references all of the preceeding work by Donahoe, et al.:
 - [Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002)](../References.md#rasmussen-clay-pierce-cheney-2022). *Behavior Analysis and Learning: A Biobehavioral Approach.
 
 ### Experimental Methodology
