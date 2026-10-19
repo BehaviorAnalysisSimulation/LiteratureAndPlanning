@@ -34,6 +34,7 @@ Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Be
 2. Behavior analytic interpretation vs cognitive/computer-science interpretation:
 	1. Behavior analysis derives interpretation of complex behavior from experimental data.
 	2. PDP (cognitive, AI) infers cognitive processes from the complex behavior, vs experimental data.
+
 <a name="donahoe-burgos-palmer-1993"></a>
 Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17 ([***NOTES***](./ReferenceNotes/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md))
 
