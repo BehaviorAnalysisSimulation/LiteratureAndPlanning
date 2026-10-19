@@ -29,6 +29,7 @@ Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982). A unif
 
 <a name="donahoe-palmer-1989"></a>
 Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing, Edited by J. L. McClelland, D. E. Rumelhart, and The PDP Research Group. _Journal of the Experimental Analysis of Behavior_, 51, 399-416. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1989.51-399 
+
 1. Rationale for combining behavior analysis with neural nets for modeling behavior, along with the TDD issues.
 2. Behavior analytic interpretation vs cognitive/computer-science interpretation:
 	1. Behavior analysis derives interpretation of complex behavior from experimental data.

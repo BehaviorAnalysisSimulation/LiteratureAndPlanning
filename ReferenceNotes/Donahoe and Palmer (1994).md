@@ -4,7 +4,7 @@
 
 ---
 
-This book is only available in hard cover. Not as convenient as being able to display on the same screen on which I am taking notes!
+Based on the reference in [Donahoe]
 
 
 ---
