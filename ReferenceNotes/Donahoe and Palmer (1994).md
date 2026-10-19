@@ -22,6 +22,8 @@ The first sentence in the preface:
 
 >This book draws upon basic biobehavioral processes to provide a conceptually coherent approach to understanding complex human behavior.
 
+I would recommend reading the previous Donahoe, et al., papers before this book.
+
 
 
 ---
