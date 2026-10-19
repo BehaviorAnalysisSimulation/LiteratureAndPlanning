@@ -13,7 +13,7 @@ Summarizes and significantly expands on the biobehavioral concepts in those work
 
 # A Biobehavioral Approach
 
-The reference in [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1982) to the "in press" version was:
+The reference in [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) to the "in press" version was:
 - Donahoe, J. W., Palmer, D. C., & **Carlson, N. C.** (in press). *Complex Human behavior* ***: A biobehavioral approach***. Boston: Ally & Bacon.
 
 The final title when published in 1994 dropped one author, Carlson, and the subtitle, "A biobehavioral approach". I can see an author bailing out, especially on a book that was in press in 1989 but which was not published until 1994. But why drop the mention of the biobehavioral approach.
