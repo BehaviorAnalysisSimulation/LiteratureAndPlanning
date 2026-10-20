@@ -41,7 +41,7 @@ Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approa
 
 <a name="donahoe-palmer-1994"></a>
 Donahoe, J. W., Palmer, D. C. (1994). *Complex human behavior*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
-1. [***ANNNOTATIONS***](./Annotations.md#donahoe-palmer-1994)
+1. [***ANNNOTATIONS***](./Annotations.md#Donahoe%20and%20Palmer%20(1994))
 
 <a name="donahoe-dorsel-1997"></a>
 Donahoe, J. W., and Dorsel, V. P. (1997)(eds). *Neural-Network Models of Cognition: Biobehavioral Foundations*. North-Holland. https://www.amazon.com/dp/B00R17NXI6
