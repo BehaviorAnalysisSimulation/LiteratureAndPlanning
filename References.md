@@ -36,7 +36,7 @@ Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Be
 	2. PDP (cognitive, AI) infers cognitive processes from the complex behavior, vs experimental data.
 
 <a name="donahoe-burgos-palmer-1993"></a>
-Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17 ([***NOTES***](./ReferenceNotes/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md))
+Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17 ([***NOTES***](./Annotations/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md))
 
 <a name="donahoe-palmer-1994"></a>
 Donahoe, J. W., Palmer, D. C. (1994). *Complex human behavior*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
@@ -117,7 +117,7 @@ Railsback, S. F. & Grimm, V. (2005). *Individual-based modeling and ecology*. P
 - Also see: [Grimm & Railsback (2019)](./References.md#grimm-railsback-2019)
 
 <a name="rasmussen-clay-pierce-cheney-2022"></a>
-Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/ - ([**NOTES**](./ReferenceNotes/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md))
+Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/ - ([**NOTES**](./Annotations/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md))
 
 <a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
