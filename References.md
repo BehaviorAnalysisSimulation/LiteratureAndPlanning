@@ -36,10 +36,12 @@ Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Be
 	2. PDP (cognitive, AI) infers cognitive processes from the complex behavior, vs experimental data.
 
 <a name="donahoe-burgos-palmer-1993"></a>
-Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17 ([***ANNOTATIONS***](./Annotations/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md))
+Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17
+1. [***ANNOTATIONS***](./Annotations/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md)
 
 <a name="donahoe-palmer-1994"></a>
 Donahoe, J. W., Palmer, D. C. (1994). *Complex human behavior*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
+1. [***ANNNOTATIONS***](../Annotations.md#donahoe-palmer-1994)
 
 <a name="donahoe-dorsel-1997"></a>
 Donahoe, J. W., and Dorsel, V. P. (1997)(eds). *Neural-Network Models of Cognition: Biobehavioral Foundations*. North-Holland. https://www.amazon.com/dp/B00R17NXI6
