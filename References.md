@@ -1,9 +1,13 @@
+# References
 
+Background materials cited or of general interest to the project. If a reference is cited in my writings, the citation is linked to the full reference on this page.
 # Format
 
-More or less [APA style](https://apastyle.apa.org/style-grammar-guidelines). 
+*More or less* [APA style](https://apastyle.apa.org/style-grammar-guidelines). 
 
-Major difference is the addition of annotations. If annotations exist, they are linked at the end of the citation as ***(NOTES)***. No real pattern to the note taking. I sometimes take notes as I skim/read an article/book/whatever to remind myself why I would care about a particular references (especially if I have already read it and don't remember why I kept it and end up re-perusing it).
+**Major difference is the addition of annotations.** Brief annotations are listed under the citation. Longer citations are in a separate page, and the **ANNOTATIONS** link to the page is listed under the citation.
+
+No real pattern to the note taking. I sometimes take notes as I skim/read an article/book/whatever to remind myself why I would care about a particular references. *Sometimes I have already read the material and don't remember why I kept it and end up re-perusing it, so: notes.*
 
 # Alphabetic/Date List
 <a name="amit-1989"></a>
@@ -119,7 +123,8 @@ Railsback, S. F. & Grimm, V. (2005). *Individual-based modeling and ecology*. P
 - Also see: [Grimm & Railsback (2019)](./References.md#grimm-railsback-2019)
 
 <a name="rasmussen-clay-pierce-cheney-2022"></a>
-Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/ - ([**NOTES**](./Annotations/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md))
+Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/
+- [**ANNOTATIONS**](./Annotations/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md)
 
 <a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605

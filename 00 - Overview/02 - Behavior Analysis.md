@@ -1,4 +1,4 @@
-
+# Overview: 02 - Behavior Analysis
 # Concepts
 
 The main focus is the experimental analysis of behavior (EAB), which is the basic research arm of behavior analysis. Everything else builds on EAB.

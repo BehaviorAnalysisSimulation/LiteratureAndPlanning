@@ -1,5 +1,7 @@
+# README
 
-### Purpose
+**Read me first page:** Top level intro Markdown formatted page as expected within GitHub and GitLab repositories.
+### Project Purpose
 
 Retirement hobby project to develop a virtual "insilico-organism" that behaves in accord with the observations of behavior analysis as documented in [Skinner's work](https://www.bfskinner.org/bookstore/), [JEAB](https://onlinelibrary.wiley.com/journal/19383711), JABA, JVB, JOBM, etc.
 

@@ -1,3 +1,4 @@
+# TODO - LIBRARIES
 
 Keep finding articles that I cannot easily or affordably access as an individual. Articles (even books) I'd like to read: might be useful, definitely relevant, cannot do without, etc. Books: I tend to buy. Articles: non-JEAB/JABA articles can be expensive, as in $35-$55/article.
 

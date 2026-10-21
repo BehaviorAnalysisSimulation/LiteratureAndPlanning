@@ -1,6 +1,6 @@
+# Annotations: Rasmussen, Clay, Pierce, and Cheney (2022)
 
-
-Notes re: [Rasmussen, et al. (2022)](../References.md#rasmussen-clay-pierce-cheney-2022)
+[Citation](../References.md#rasmussen-clay-pierce-cheney-2022)
 
 ---
 
