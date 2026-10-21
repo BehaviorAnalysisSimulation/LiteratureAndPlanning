@@ -74,7 +74,7 @@ Once the model reliably behaves as behavior analysis says it should,
 
 ---
 
-- Previous: [04 - Neuroscience](./02%20-%20Neuroscience.md)
+- Previous: [04 - Neuroscience](./04%20-%20Neuroscience.md)
 - Next: []()
 
 ---
