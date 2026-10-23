@@ -26,9 +26,16 @@ I would recommend reading the previous Donahoe, et al., papers before this book.
 
 # Glossary
 
-Biobehavioral terms define in this book. May have also been defined in the previous works as well *(TODO)*.
+Donahoe, et al., publications introduced me to the biobehavioral approach. I am listing terms that were unfamiliar to me before reading these works, with page references for this book. Not all terms are strictly biobehavioral. 
 
-xxx
+I will do the same within annotations for other works, and eventually create a master glossary.
+
+Order is not (currently) significant. I jumped around a lot.
+
+| Term | Definition | Page(s) |
+| ---- | ---------- | ------- |
+|      |            |         |
+
 
 ---
 
