@@ -26,7 +26,7 @@ I would recommend reading the previous Donahoe, et al., papers before this book.
 
 # Glossary
 
-Donahoe, et al., publications introduced me to the biobehavioral approach. I am listing terms that were unfamiliar to me before reading these works, with page references for this book. Not all terms are strictly biobehavioral. 
+Donahoe, et al., publications introduced me to the biobehavioral approach. I am listing terms with page references for this book. Not all terms are strictly biobehavioral. Some terms are listed because I first encountered them in the works of Donahoe, et al. Some are included because Donahoe, et al., use the terms in an unfamiliar way.
 
 I will do the same within annotations for other works, and eventually create a master glossary.
 
