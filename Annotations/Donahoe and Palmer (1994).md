@@ -32,9 +32,9 @@ I will do the same within annotations for other works, and eventually create a m
 
 Order is not (currently) significant. I jumped around a lot.
 
-| Term | Definition | Page(s) |
-| ---- | ---------- | ------- |
-|      |            |         |
+| Term                   | Definition                                                                                                                                                                                                                                 | Page(s) |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| biobehavioral approach | "functional relations between the environment and behavior are supplemented with functional relations involving subbehavioral events" where "supplementary functional relations are also the product of independent experimental analysis" | 10      |
 
 
 ---
