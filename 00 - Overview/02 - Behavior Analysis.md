@@ -49,6 +49,14 @@ To understand the simulations, it is probably necessarty to understand EAB resea
 1. [Sidman, M. (1960)](../References.md#sidman-1960). *Tactics of Scientific Research: Evaluating Experimental Data in Psychology*. I worked in [Don Hake's](https://www.abainternational.org/constituents/bios/donhake.aspx) social behavior EAB lab as an undergrad in the late 1970s. One day he essentially said, "ya gotta up your game", and handed this book to me: "Read it". Loved it.
 2. [Johnston, J. M., & G. Green (2019)](../References.md#johnston-green-2019). *Strategies and Tactics of Behavioral Research and Practice* (4th ed.). Have *not* read this one. This is an update of the "classic" Johnston & Pennypacker text I am familiar with. Adds a bunch of applied stuff.
 
+# Interbehaviorism
+
+This could be a very big topic in its own right, and I am not really conversant. Most of my exposure was in the early 1980s when I took a theory and philosophy course from Linda Parrott (Hayes). Cloyd Hyten and I had a great time arguing with her, trying to steer her away from the dark side (philosophy) toward the light of empirical experimentation. I got an email from her decades ago saying that she was beginning to do some experimental work while at St. Mary's in Nova Scotia. I never followed up on it.
+
+Also, José Burgos is rather philosophical, and I understand he has addressed interbehaviorism directly.  I believe there are experiments out there from an interbehavioral approach. Highly concurrent simulation seems very appropriate.
+
+Most of the early simulation in this project will be based on Donahoe and Burgos early work which is pretty much straight-up radical behaviorism. So: I'm okay for a while ...
+
 ---
 
 - Previous: [01 - Project Background](./01%20-%20Project%20Background.md)
