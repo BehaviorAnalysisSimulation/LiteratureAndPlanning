@@ -55,7 +55,10 @@ This could be a very big topic in its own right, and I am not really conversant.
 
 Also, José Burgos is rather philosophical, and I understand he has addressed interbehaviorism directly.  I believe there are experiments out there from an interbehavioral approach. Highly concurrent simulation seems very appropriate.
 
-Most of the early simulation in this project will be based on Donahoe and Burgos early work which is pretty much straight-up radical behaviorism. So: I'm okay for a while ...
+Most of the early simulation in this project will be based on Donahoe and Burgos early work which is pretty much straight-up radical behaviorism. So: I'm okay for a while.
+
+For the time being, here is a relatively easy introduction, assuming you are already up to speed on radical behaviorism:
+- [Morris, E. K. (1984)](../References.md#morris-1984). Iterbehavioral Psychology and Radical Behaviorism: Some Similarities and Differences. *The Behavior Analyst, 7, 197-204*.]
 
 ---
 
