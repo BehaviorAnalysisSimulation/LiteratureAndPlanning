@@ -98,7 +98,11 @@ Johnston, J. M., & G. Green (2019). *Strategies and Tactics of Behavioral Resear
 Keller, F. S., Schoenfeld, W. N. (1950). *Principles of Psychology: A Systematic Text in the Science of Behavior*. Appleton-Century-Crofts. https://www.bfskinner.org/product/principles-of-psychology-pdf/ 
 
 <a name="marr-ziio-2013"></a>
-Jackson Marr, M., & Zilio, D. (2013). No Island Entire of Itself: Reductionism and Behavior Analysis. _European Journal of Behavior Analysis_, _14_(2), 241–257. https://doi.org/10.1080/15021149.2013.11434458
+Marr, J., M., & Zilio, D. (2013). No Island Entire of Itself: Reductionism and Behavior Analysis. _European Journal of Behavior Analysis_, _14_(2), 241–257. https://doi.org/10.1080/15021149.2013.11434458
+
+<a name="morris-1984"></a>
+Morris, E. K. (1984). Iterbehavioral Psychology and Radical Behaviorism: Some Similarities and Differences. *The Behavior Analyst, 7, 197-204*.
+
 <a name="mcclelland-rumelhart-1986-1"></a>
 McClelland, J. L., Rumelhart, D. E., & PDP Research Group (Eds.). (1986).  *Parallel distributed processing: Explorations in the microstructure of cognition: Vol. 1. Psychological and biological models*. Cambridge, MA: MIT Press. https://www.amazon.com/David-Rumelhart-Distributed-Explorations-Microstructure/dp/B008UBPF8I
 
