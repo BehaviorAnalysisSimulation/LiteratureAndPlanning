@@ -53,7 +53,7 @@ To understand the simulations, it is probably necessarty to understand EAB resea
 
 This could be a very big topic in its own right, and I am not really conversant. Most of my exposure was in the early 1980s when I took a theory and philosophy course from Linda Parrott (Hayes). Cloyd Hyten and I had a great time arguing with her, trying to steer her away from the dark side (philosophy) toward the light of empirical experimentation. I got an email from her decades ago saying that she was beginning to do some experimental work while at St. Mary's in Nova Scotia. I never followed up on it.
 
-José Burgos is rather philosophical, and I understand he has addressed interbehaviorism directly.  I believe there are experiments out there from an interbehavioral approach. Highly concurrent simulation seems very appropriate.
+[José Burgos](./00%20-%20About.md#jose-burgos) is rather philosophical, and I understand he has addressed interbehaviorism directly.  I believe there are experiments out there from an interbehavioral approach. Highly concurrent simulation seems very appropriate.
 
 Most of the early simulation in this project will be based on the early works of John Donahoe and José Burgos. This was largely straight up pretty much straight-up selectionism in the radical behaviorist tradition. So: I'm okay for a while.
 
