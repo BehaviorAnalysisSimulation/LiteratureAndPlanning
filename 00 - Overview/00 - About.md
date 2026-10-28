@@ -122,6 +122,8 @@ See references:
 - [Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments.](../References.md#burgos-1997)
 - *many more to come*
 
+***I should add a "people" page ... but not right now.***
+
 ---
 
 - Previous: [TOP: README.md](../README.md)
