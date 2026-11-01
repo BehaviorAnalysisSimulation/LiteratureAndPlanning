@@ -65,9 +65,14 @@ Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in avoidanc
 <a name="garcia-rill-2015">Garcia-Rill (2015)</a>
 Garcia-Rill, E. (2015). *Waking and the Reticular Activating System in Health and Disease*. Academic Press. https://www.amazon.com/Waking-Reticular-Activating-System-Disease-ebook/dp/B00WZ1AXG8/
 
+<a name="grimm-railsback-2005"></a>
+Grimm, V., and Railsback, (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
+- The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
+- Also see: [Railsback and Grimm (2019)](./References.md#railsback-grimm-2019)
+
 <a name="grimm-railsback-2019"></a>
 Grimm, V., & Railsback, S. F. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
-1. Read first: [Railsback & Grimm (2005)](./References.md#railsback-grimm-2005)
+1. Read first: [Grimm and Railsback (2005)](./References.md#grimm-railsback-2005)
 2. This second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples.
 
 <a name="hake-donaldson-hyten-1983"></a>
@@ -120,11 +125,6 @@ Nevin, J. A. (1974). Response strength in multiple schedules. *JEAB, 21*(3), 389
 
 <a name="nevin-mandel-atak-1983"></a>
 Nevin, J. A., Mandell, C., & Atak, J. R. (1983). The analysis of behavioral momentum. *JEAB, 39*(1), 49–59. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1983.39-49
-
-<a name="railsback-grimm-2005"></a>
-Railsback, S. F. & Grimm, V. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
-- The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
-- Also see: [Grimm & Railsback (2019)](./References.md#grimm-railsback-2019)
 
 <a name="rasmussen-clay-pierce-cheney-2022"></a>
 Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/
