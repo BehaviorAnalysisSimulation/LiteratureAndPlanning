@@ -69,12 +69,6 @@ Garcia-Rill, E. (2015). *Waking and the Reticular Activating System in Health an
 Grimm, V., and Railsback, S.F. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
 - The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
 - Also see: [Railsback and Grimm (2019)](./References.md#railsback-grimm-2019)
-
-<a name="railsback-grimm-2019"></a>
-Railsback, S. F., and Grimm, V. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
-1. Read first: [Grimm and Railsback (2005)](./References.md#grimm-railsback-2005)
-2. This second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples.
-
 <a name="hake-donaldson-hyten-1983"></a>
 Hake, D. F., Donaldson, T., Hyten, C. (1983). *JEAB*, 39(1), 7-23. https://pubmed.ncbi.nlm.nih.gov/16812313/
 
@@ -129,6 +123,12 @@ Nevin, J. A., Mandell, C., & Atak, J. R. (1983). The analysis of behavioral mome
 <a name="rasmussen-clay-pierce-cheney-2022"></a>
 Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/
 - [**ANNOTATIONS**](./Annotations/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md)
+
+
+<a name="railsback-grimm-2019"></a>
+Railsback, S. F., and Grimm, V. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
+1. Read first: [Grimm and Railsback (2005)](./References.md#grimm-railsback-2005)
+2. This second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples.
 
 <a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
