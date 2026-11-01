@@ -24,6 +24,12 @@ The first sentence in the preface:
 
 I would recommend reading the previous Donahoe, et al., papers before this book.
 
+# Behavior Analysis Basics
+
+This book is a pretty good intro to behavior analysis. The complication in using it as an intro book is the incorporation of neuroscience/physiology as related to biobehaviorism. Skinner's works might be an easier intro to basics.
+
+But, for anyone familiar with the basics of behavior analysis, EAB, JEAB, this seems to be a fairly painless intro to biobehaviorism.
+
 # Glossary
 
 Donahoe, et al., publications in other articles and book chapters introduced me to the biobehavioral approach. In this glossary I am only listing terms with encountered in this Donahoe and Palmer (1994) book, with page references. 
@@ -42,6 +48,7 @@ Order is not (currently) significant. I jumped around a lot.
 | selectionist approach to learning | Combination of:<br>1. developmental approach (change over lifetime, p. 20),<br>2. comparative approach (inter-species, pp. 21, 22),<br>3. neuropsychological approach (pp. 21, 23),                                                                    | 20-24   |                                                                                                                                                                                                                                                   |
 | blindsight                        | Independence of verbal and other types of responding, *specifically* regarding people with certain neurological issues: "These persons behave in a way that is appropriate to the visual environment, but they do not speak appropriately."            | 23      | In some ways resembles non-correspondences due to contingencies, e.g., political speech.                                                                                                                                                          |
 | counterselections                 | "... a selected environment-behavior relation may alter the environment, thereby influencing subsequent selection."                                                                                                                                    | 24      | Given:<br>1. An unlimited number of such relations are in effect at any moment, and<br>2. they operate in a full-duplex, concurrent, manner,<br>• **Then:** we have an interbehavioral field (c.f., [Morris 1984](../References.md#morris-1984)). |
+| formal interpretation             | "Computer simulation is the most common type of formal interpretation in modern biobehavioral science." "... the principles informing the program are restricted to those that are derived from research on the relevant biobehavioral processes."     | 128     | This is the aim of this simulation project. The existing Donahoe, et al., simulations are "agent based" as is often done in other fields. See  [Railsback & Grimm (2005)](./References.md#railsback-grimm-2005).                                  |
 
 
 ---
