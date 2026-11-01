@@ -66,12 +66,12 @@ Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in avoidanc
 Garcia-Rill, E. (2015). *Waking and the Reticular Activating System in Health and Disease*. Academic Press. https://www.amazon.com/Waking-Reticular-Activating-System-Disease-ebook/dp/B00WZ1AXG8/
 
 <a name="grimm-railsback-2005"></a>
-Grimm, V., and Railsback, (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
+Grimm, V., and Railsback, S.F. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
 - The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
 - Also see: [Railsback and Grimm (2019)](./References.md#railsback-grimm-2019)
 
-<a name="grimm-railsback-2019"></a>
-Grimm, V., & Railsback, S. F. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
+<a name="railsback-grimm-2019"></a>
+Railsback, S. F., and Grimm, V. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
 1. Read first: [Grimm and Railsback (2005)](./References.md#grimm-railsback-2005)
 2. This second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples.
 
