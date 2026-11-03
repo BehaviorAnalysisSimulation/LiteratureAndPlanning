@@ -24,8 +24,6 @@ This project is primarily about behavior analysis, but it is not *just* a behavi
 
 [Donahoe, Palmer, and Burgos (1993)](../References.md#donahoe-burgos-palmer-1993) refer to this type of analysis/simulation as "biological behaviorism" or "biobehaviorism". This JEAB article is probably the best overview of the nature of the methodology, and where it comes from. Much has changed since its publication.
 
-For a more recent take on "biobehaviorism", see [Rasmussen, Clay, Pierce, and Cheney (2022)](../References.md#rasmussen-clay-pierce-cheney-2022)
-
 Domains:
 - [Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
 - [Behavioral Neuroscience](03%20-%20Behavioral%20Neuroscience.md)
