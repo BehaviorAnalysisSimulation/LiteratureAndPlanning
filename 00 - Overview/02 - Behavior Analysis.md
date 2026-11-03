@@ -51,14 +51,31 @@ To understand the simulations, it is probably necessary to understand EAB resear
 
 # Interbehaviorism
 
-This could be a very big topic in its own right, and I am not really conversant. Most of my exposure was in the early 1980s when I took a theory and philosophy course from Linda Parrott (Hayes). Cloyd Hyten and I had a great time arguing with her, trying to steer her away from the dark side (philosophy) toward the light of empirical experimentation. I got an email from her decades ago saying that she was beginning to do some experimental work while at St. Mary's in Nova Scotia. I never followed up on it.
-
-[José Burgos](./00%20-%20About.md#jose-burgos) is rather philosophical, and I understand he has addressed interbehaviorism directly.  I believe there are experiments out there from an interbehavioral approach. Highly concurrent simulation seems very appropriate.
+This could be a very big topic in its own right, and I am ***not*** really conversant. Most of my exposure was in the early 1980s when I took a theory and philosophy course from Linda Parrott (Hayes). Cloyd Hyten and I had a great time arguing with her, trying to steer her away from the dark side (philosophy) toward the light of empirical experimentation. I got an email from her decades ago saying that she was beginning to do some experimental work while at St. Mary's in Nova Scotia. I never followed up on it.
 
 Most of the early simulation in this project will be based on the early works of John Donahoe and José Burgos. This was largely pretty much straight-up selectionism in the radical behaviorist tradition. So: I'm okay for a while.
 
 For the time being, here is a relatively easy introduction to interbehaviorism, assuming you are already up to speed on radical behaviorism:
 - [Morris, E. K. (1984)](../References.md#morris-1984). Iterbehavioral Psychology and Radical Behaviorism: Some Similarities and Differences. *The Behavior Analyst, 7, 197-204*.]
+### TODO:
+1. Need examples of experiments from an interbehavioral approach. 
+2. How does it differ from JEAB style research? Apparently there is literature out there, but I have not gone looking yet, and much of it may be in Spanish (the Mexican/Burgos connection).
+
+### LLM Quote
+
+From the end of a long conversation. I have not investigated any of this but it sounds reasonable. Emphasis mine:
+
+> The experimental analysis of behavior gains much of its precision by holding most of the experimental situation constant. A single manipulandum, a fixed deprivation level, and an equated history isolate one relation so that its functional dependencies can be measured cleanly. ***Interbehaviorism, developed by J. R. Kantor and long a minority position within behavior analysis, asks what that strategy sets aside.***
+> 
+> It takes as its unit the interbehavioral field: the concurrent participation of stimulus and response functions, setting factors, media of contact, and interbehavioral history. Its concepts largely parallel those of radical behaviorism (both treat stimulus functions as products of history, and both treat motivating conditions as active variables), but ***interbehaviorism builds these factors into its unit of analysis***, so that ***history, setting factors, and media of contact are formal components of every psychological event*** rather than variables added to a three-term contingency. 
+> 
+> Its influence on behavior analysis is broader than commonly recognized (Morris, Higgins, & Bickel, 1982). ***It has also produced its own experimental programs, notably the work following Ribes and López (1985) and Ray’s interbehavioral systems analysis, which record the organism’s whole activity rather than the rate of a single response.***
+
+It seems that the same sorts of inputs, variables, and data, are the same across EAB and interbehaviorism, but the data analysis would differ. Maybe data that is typically recorded for an EAB experiment (e.g., bird weight before and after session) is more typically included in data analysis for an interbehavioral experiment than it is in EAB?
+
+### Impact on Software
+
+Probably none. 
 
 ---
 
