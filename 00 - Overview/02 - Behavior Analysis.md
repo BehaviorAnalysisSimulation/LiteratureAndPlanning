@@ -43,7 +43,7 @@ The following book *could* be used as an intro to the experimental analysis of b
 
 ### Experimental Methodology
 
-This project will use experimental analysis of behavior (EAB) research as test of simulations. Over time as large suite of test replications of EAB experiments will accrete and will be used to test the simulation software at each step to ensure that the simulations are accurate, valid, whatever. 
+This project will use published experimental analysis of behavior (EAB) research as test of simulations. Over time as large suite of test replications of EAB experiments will accrete and will be used to test the simulation software at each step to ensure that the simulations are accurate, valid, whatever. 
 
 To understand the simulations, it is probably necessarty to understand EAB research. Here are two classics:
 1. [Sidman, M. (1960)](../References.md#sidman-1960). *Tactics of Scientific Research: Evaluating Experimental Data in Psychology*. I worked in [Don Hake's](https://www.abainternational.org/constituents/bios/donhake.aspx) social behavior EAB lab as an undergrad in the late 1970s. One day he essentially said, "ya gotta up your game", and handed this book to me: "Read it". Loved it.
