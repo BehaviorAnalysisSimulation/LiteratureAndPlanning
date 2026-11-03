@@ -61,7 +61,7 @@ For the time being, here is a relatively easy introduction to interbehaviorism, 
 1. Need examples of experiments from an interbehavioral approach. 
 2. How does it differ from JEAB style research? Apparently there is literature out there, but I have not gone looking yet, and much of it may be in Spanish (the Mexican/Burgos connection).
 
-### LLM Quote
+### Experimentation Differences (LLM Quote)
 
 From the end of a long conversation. I have not investigated any of this but it sounds reasonable. Emphasis mine:
 
