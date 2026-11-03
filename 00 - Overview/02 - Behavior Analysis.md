@@ -35,7 +35,7 @@ The earliest references to biological behaviorism within behavior analysis liter
 
 1. [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) *The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing*. Great article comparing/contrasting behavior analytic and cognitive approaches to complex behavior, and the use of neural nets in modeling behavior. 
 2. [Donahoe, Burgos, and Palmer (1993)](../References.md#donahoe-burgos-palmer-1993). *A Selectionist Approach to Reinforcement*. Expansion in great detail of the neural net described in [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989).
-3. [Donahoe, J. W., Palmer, D. C. (1994)](../References.md#donahoe-palmer-1994). *Complex human behavior*. The first sentence of the preface: "This book draws upon basic biobehavioral processes to provide a conceptually coherent approach to understanding complex human behavior".
+3. [Donahoe, J. W., Palmer, D. C. (1994)](../References.md#donahoe-palmer-1994). *Complex human behavior*. The first sentence of the preface: "This book draws upon basic biobehavioral processes to provide a conceptually coherent approach to understanding complex human behavior". Is also a good intro to the basics of behavior analysis.
 4. [Donahoe, J.W., and Dorsel, V.P. (1997)](../References.md#donahoe-dorsel-1997). *Neural-Network Models of Cognition: Biobehavioral Foundations*. 
 
 The following book *could* be used as an intro to the experimental analysis of behavior (EAB). However, it does incorporate neuroscience throughout. ***Not sure why it never references all of the preceeding work by Donahoe, et al.***:
