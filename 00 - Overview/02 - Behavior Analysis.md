@@ -7,7 +7,7 @@ The main focus is the experimental analysis of behavior (EAB), which is the basi
 
 If you are not very familiar with behavior analysis, I recommend the following books. Both are "easy reads" for undergraduates, from my recollections as an undergrad fifty some years ago *(no, not re-reading them, so just trust the me of half a century ago)*. 
 
-The books are referenced hundreds, if not thousands of times throughout the EAB and related literature It would be useful to at least skim both of them. Note that these books are "almost free" as PDFs from the B.F. Skinner Foundation (see links in the linked references):
+The books are referenced hundreds, if not thousands of times throughout the EAB and related literature. It would be useful to at least skim both of them. Note that these books are "almost free" as PDFs from the B.F. Skinner Foundation (see links in the linked references):
 
 1. [Skinner, B. F. (1938)](../References.md#skinner-1938). *The Behavior of Organisms: An Experimental Analysis*. The foundational work of the experimental analysis of behavior (EAB). This was probably the first book I read on behavior analysis back when I was an undergrad, and found it to be an easy introduction to EAB, radical behaviorism, and the terminology and concepts that carry through to today (with some exceptions).
 2. [Skinner, B. F. (1953)](../References.md#skinner-1953).  *Science and human behavior*. Builds on *The Behavior of Organisms*, adding (as you would expect from the title) humans to the list of organisms. 
