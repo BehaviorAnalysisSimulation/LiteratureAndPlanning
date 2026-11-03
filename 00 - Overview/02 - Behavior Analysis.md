@@ -45,9 +45,9 @@ The following book *could* be used as an intro to the experimental analysis of b
 
 This project will use published experimental analysis of behavior (EAB) research as test of simulations. Over time as large suite of test replications of EAB experiments will accrete and will be used to test the simulation software at each step to ensure that the simulations are accurate, valid, whatever. 
 
-To understand the simulations, it is probably necessarty to understand EAB research. Here are two classics:
-1. [Sidman, M. (1960)](../References.md#sidman-1960). *Tactics of Scientific Research: Evaluating Experimental Data in Psychology*. I worked in [Don Hake's](https://www.abainternational.org/constituents/bios/donhake.aspx) social behavior EAB lab as an undergrad in the late 1970s. One day he essentially said, "ya gotta up your game", and handed this book to me: "Read it". Loved it.
-2. [Johnston, J. M., & G. Green (2019)](../References.md#johnston-green-2019). *Strategies and Tactics of Behavioral Research and Practice* (4th ed.). Have *not* read this one. This is an update of the "classic" Johnston & Pennypacker text I am familiar with. Adds a bunch of applied stuff.
+To understand the simulations, it is probably necessary to understand EAB research methodology. Here are two classics:
+1. [Sidman, M. (1960)](../References.md#sidman-1960). *Tactics of Scientific Research: Evaluating Experimental Data in Psychology*. *(I worked in [Don Hake's](https://www.abainternational.org/constituents/bios/donhake.aspx) social behavior EAB lab as an undergrad in the late 1970s. One day he essentially said, "ya gotta up your game", and handed this book to me: Read it. Loved it.)*
+2. [Johnston, J. M., & G. Green (2019)](../References.md#johnston-green-2019). *Strategies and Tactics of Behavioral Research and Practice* (4th ed.). Have *not* read *this* edition. It is an update of the "classic" Johnston & Pennypacker text I am familiar with. Adds a bunch of applied stuff.
 
 # Interbehaviorism
 
@@ -55,9 +55,9 @@ This could be a very big topic in its own right, and I am not really conversant.
 
 [José Burgos](./00%20-%20About.md#jose-burgos) is rather philosophical, and I understand he has addressed interbehaviorism directly.  I believe there are experiments out there from an interbehavioral approach. Highly concurrent simulation seems very appropriate.
 
-Most of the early simulation in this project will be based on the early works of John Donahoe and José Burgos. This was largely straight up pretty much straight-up selectionism in the radical behaviorist tradition. So: I'm okay for a while.
+Most of the early simulation in this project will be based on the early works of John Donahoe and José Burgos. This was largely pretty much straight-up selectionism in the radical behaviorist tradition. So: I'm okay for a while.
 
-For the time being, here is a relatively easy introduction, assuming you are already up to speed on radical behaviorism:
+For the time being, here is a relatively easy introduction to interbehaviorism, assuming you are already up to speed on radical behaviorism:
 - [Morris, E. K. (1984)](../References.md#morris-1984). Iterbehavioral Psychology and Radical Behaviorism: Some Similarities and Differences. *The Behavior Analyst, 7, 197-204*.]
 
 ---
