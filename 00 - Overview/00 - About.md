@@ -14,10 +14,8 @@ There are (more or less) four phases:
 
 ### This Document Set
 
-1. **Working notes:** They in some way represent my current and changing knowledge regarding topics related to the project. They will change. They will probably often be somewhat incomplete, inconsistent, incorrect, speculative. 
+1. **Working notes:** They in some way represent my current and changing knowledge regarding topics related to the project. They will probably often be somewhat incomplete, inconsistent, incorrect, speculative. 
 2. **General starting point:** I will try to provide enough information to allow folks from all of the required domains to get a sense of what this project is doing, and to provide them a foothold. See [Interdisciplinary](./00%20-%20About.md#interdisciplinary), below.
-
-I generally keep a work diary of some sort, which is fine for tracing how and why I did something in sequence. Such diaries are not terribly easy to use as a reference. I will probably keep a diary for this project also, but will extract "conclusions" from the diary and organize them in this doc.
 
 <a name="interdisciplinary"></a>
 # Interdisciplinary
