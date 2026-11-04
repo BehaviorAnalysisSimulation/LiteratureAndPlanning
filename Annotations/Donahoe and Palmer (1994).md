@@ -36,8 +36,6 @@ There are comments throughout regarding using neural networks in the formal inte
 1. See glossary entry "formal interpretation" below.
 2. Heading "Networks and neuroscience" (pp. 165-166) describes what some call "principled heuristics". That is only simulating neurons to the granularity necessary to produce or account for the behavior. Such simplifications must not be arbitrary, but based on neuroscience coupled with behavior (i.e., must be principled).
 
-This is also discussed in more detail in the previous works: [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) and [Donahoe, Burgos, and Palmer (1993)](../References.md#donahoe-burgos-palmer-1993).
-
 # Glossary
 
 Donahoe, et al., publications in other articles and book chapters introduced me to the biobehavioral approach. In this glossary I am only listing terms with encountered in this Donahoe and Palmer (1994) book, with page references. 
