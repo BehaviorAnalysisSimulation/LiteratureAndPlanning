@@ -59,10 +59,10 @@ Fantino, E. (1969). Choice and rate of reinforcement. *JEAB, 12*(5), 723–730.
 <a name="ferster-skinner-1957"></a>
 Ferster, C. B., Skinner, B. F. (1957). *Schedules of Reinforcement*. Prentice-Hall. https://www.bfskinner.org/product/schedules-of-reinforcement-pdf/
 
-<a name="garcia-koelling-1966">Garcia and Koelling (1966)</a>
+<a name="garcia-koelling-1966"></a>
 Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in avoidance learning. *Psychonomic Science, 4*(3), 123–124.
 
-<a name="garcia-rill-2015">Garcia-Rill (2015)</a>
+<a name="garcia-rill-2015"></a>
 Garcia-Rill, E. (2015). *Waking and the Reticular Activating System in Health and Disease*. Academic Press. https://www.amazon.com/Waking-Reticular-Activating-System-Disease-ebook/dp/B00WZ1AXG8/
 
 <a name="grimm-railsback-2005"></a>
