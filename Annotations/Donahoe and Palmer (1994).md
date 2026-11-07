@@ -35,7 +35,7 @@ But, for anyone familiar with the basics of behavior analysis, EAB, JEAB, this s
 There are comments throughout regarding using neural networks in the formal interpretation behavioral and biobehavioral science:
 1. See glossary entry "formal interpretation" below.
 2. Heading "Networks and neuroscience" (pp. 165-166) describes what some call "principled heuristics". That is only simulating neurons to the granularity necessary to produce or account for the behavior. Such simplifications must not be arbitrary, but based on neuroscience coupled with behavior (i.e., must be principled).
-3. Note that this book, Donahoe and Palmer (1994), uses many neuroscience terms with little or no definition or explanation. See annotations for neuroscience references mentioned in [Overview: 04 - Neuroscience](../00%20-%20Overview/04%20-%20Neuroscience.md).
+3. Note that this book, Donahoe and Palmer (1994), uses many neuroscience terms with little or no definition or explanation. For more detail, see neuroscience references (and annotations) mentioned in [Overview: 04 - Neuroscience](../00%20-%20Overview/04%20-%20Neuroscience.md).
 
 # Glossary
 
