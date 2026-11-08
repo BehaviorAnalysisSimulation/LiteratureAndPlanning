@@ -37,7 +37,7 @@ The Donahoe, et al., model focussed on the consequence side of the "three term c
 
 Additional features of organisms will have to be added, both neurological and otherwise. 
 
-Critically, it is **NOT** possible to build a usable "naive" simulation ([Railsback & Grimm (2005)](../References.md#railsback-grimm-2005)) for at least two reasons:
+Critically, it is **NOT** possible to build a usable "naive" simulation ([Grimm and Railsback (2005)](../References.md#grimm-railsback-2005)) for at least two reasons:
 1. The neuroscience is not there. Neuroscience text books are FULL of comments to the effect that "much is not known yet" and "this is speculative but ...".
 2. Affordable hardware to implement a "naive" simulation does not exist.
 
