@@ -8,7 +8,7 @@ This organism could ultimately be used to test "what if" behavioral scenarios as
 
 There are (more or less) four phases:
 1. Informal working literature review: existing SelNet literature (mostly by [José Burgos](./00%20-%20About.md#jose-burgos)); what's been done/not done; limitations of the purely selectionist simulations; behavioral neuroscience mapping critical "load bearing" neuroscience structure/function to behavior analytic processes, etc. See [Reality Check](./00%20-%20About.md#reality-check) below.
-2. Create a software environment for defining organisms, experimental procedures, running experiments, analyzing data. Issues here will be how to simulated the required "load bearing" neural processes efficiently on an affordable computer system (i.e., Apple silicon).
+2. Create a software environment for defining organisms, experimental procedures, running experiments, analyzing data. Issues here will be how to simulate the required "load bearing" neural processes efficiently on an affordable computer system (i.e., Apple silicon).
 3. Replicate the existing SelNet experiments by Donahoe, Burgos, and others. These will be in [JEAB (Wiley)](https://onlinelibrary.wiley.com/journal/19383711) and in [Behavioural Processes (Elsevier)](https://www.sciencedirect.com/journal/behavioural-processes).
 4. Everything else 😂. This includes evolving the system to replicate all the behaviors that SelNet *apparently* cannot address (see [Reality Check](./00%20-%20About.md#reality-check), below).
 
