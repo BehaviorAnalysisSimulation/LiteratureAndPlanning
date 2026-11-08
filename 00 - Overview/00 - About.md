@@ -65,9 +65,9 @@ Add following prompt to the conversation started above:
 
 ### 3. Best?
 
-The system would at this point still have problems. Might Thousand Brains Theory (TBT) help? Try adding one final prompt to the conversation:
+The system would at this point still have problems. Might ***thousand brains theory (TBT)*** ([Hawkins (2021)](../References.md#hawkins-2021)) help? Try adding one final prompt to the conversation:
 
-***`Might Thousand Brains Theory (TBT) somehow be integrated with the combined SelNet, thalamus, and RAS? If so, what would the impact be?`***
+***`Might thousand brains theory (TBT) somehow be integrated with the combined SelNet, thalamus, and RAS? If so, what would the impact be?`***
 
 ### 4. Is it even practical?
 
