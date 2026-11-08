@@ -44,8 +44,8 @@ The virtual organism will be a "software model" of individual entities, vs a sta
 
 This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). The following books focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis. The second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples of individual/agent based modeling techniques.
 
-- [Grimm & Railsback, 2005](../References.md#grimm-railsback-2005)
-- [Grimm & Railsback, 2019](../References.md#grimm-railsback-2019)
+- [Grimm & Railsback (2005)](../References.md#grimm-railsback-2005)
+- [Railsback and Grimm (2019)](../References.md#railsback-grimm-2019)
 
 The goal is to create a model that behaves in accordance with real-world behavior analysis observations, and which can be used to predict behavior of individuals and groups of individuals in particular situations.
 
