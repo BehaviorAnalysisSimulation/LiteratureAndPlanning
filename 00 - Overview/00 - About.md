@@ -57,7 +57,7 @@ For example, try this prompt with your favorite AI (Google AI Mode does a pretty
 
 ### 2. Better?
 
-Solving these problems will be very difficult. One possibility is to integrate such as a [model thalamus](https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman-ebook/dp/B00P2AZAEO), and a [reticular activating system (RAS)](https://en.wikipedia.org/wiki/Reticular_formation), with the Donahoe model. 
+Solving these problems will be very difficult. One possibility is model a ***thalamus*** ([Sherman and Guillery (2000))](../References.md#sherman-guillery-2000), and a ***reticular activating system (RAS)*** ([Garcial-Rill (2015)](../References.md#garcia-rill-2015)), with the Donahoe model. 
 
 Add following prompt to the conversation started above:
 
