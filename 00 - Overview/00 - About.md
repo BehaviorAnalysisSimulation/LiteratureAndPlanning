@@ -81,7 +81,7 @@ Here is one bit of unattributed advice that has been part of the software develo
 
 - Design software for the hardware that will be extant when the software is to be released, not for the hardware that exists at design time.
 
-This argues for developing scalable software. For example, it could be that when including all of the neural functionality suggested above, I might be able to only fully simulate a mouse on my current hardware, at best. As more capable hardware becomes affordable, I should be able to create configurations that simulate more "capable" organisms, even to the level of language understanding and generation. This might be done by, for example, implementing configurable cortical columns: layers within columns, neurons in layers, number of columns in the "brain", etc.
+**This argues for developing scalable, configurable, software.** For example, it could be that when including all of the neural functionality suggested above, I might be able to only fully simulate a mouse on my current hardware, at best. As more capable hardware becomes affordable, I should be able to create configurations that simulate more "capable" organisms, even to the level of language understanding and generation. This might be done by, for example, implementing configurable cortical columns: layers within columns, neurons in layers, number of columns in the "brain", etc.
 
 After hours discussing all of this with multiple AI's it is clearly much more complicated than it sounds, but it is solvable. And as a software developer, it looks like a lovely challenge.
 
