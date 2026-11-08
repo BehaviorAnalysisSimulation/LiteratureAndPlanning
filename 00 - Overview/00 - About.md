@@ -87,8 +87,6 @@ After hours discussing all of this with multiple AI's it is clearly much more co
 
 I can get started with my ancient Apple Studio M1 Max with a paltry 64GB of unified memory, 10 CPU cores, 32 GPUs, and 16 neural engines. It will take me a year or two to outgrow it, given my need to do a lit review and build an experimental framework akin to the one shown here: [BASimulation.org: Update: Two Years After](https://basimulation.org/2019/07/10/update-two-years-after/). That's a lot of low-compute-demand work. 
 
-***(As of November 2026 Apple's M5-Ultra is available for pre-order. Maxed out price is about $30,000, including: 36-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory, 16TB storage. About the same price as a 2027 Subaru Crosstrek Premium. By the time I have any real need for so much power/memory, the M7s will be out, and maybe the memory shortage will be over, I hope.)***
-
 # JEAB as the main Driver
 
 The [Journal of the Experimental Analysis of Behavior (JEAB)](https://onlinelibrary.wiley.com/journal/19383711), is an archival journal for basic-science level behavior analysis. It presents large numbers of experiments and results covering a very large number of behaviors, concepts. As such, it represents in a clear and detailed manner what the insilico organism must do, what tests it must pass. 
