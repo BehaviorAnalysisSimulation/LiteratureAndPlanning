@@ -16,6 +16,7 @@ Peripheral software, especially data analysis and offline graphing will likely b
 
 Hardware will at least initially be limited to Apple silicon Macs. They are probably the most affordable and easy to use systems for this type of software development, especially with their unified memory architecture.
 
+
 # Simulation Environment
 
 The organism(s) will "live" within an experimental simulation that will contain one or more environments (e.g., operant chambers, work sites) in which each environment is controlled by one or more state machines, and containing one or more organisms. 
