@@ -1,5 +1,5 @@
 # Overview: 01 - Project Background
-### Background
+# Background
 
 This project will be a much delayed continuation of [BASimulation.org](https://basimulation.org). See:
 - [History](https://basimulation.org/history/)
@@ -15,7 +15,7 @@ So I finally did a search of [JEAB](https://onlinelibrary.wiley.com/journal/1938
 
 This led me to create the [demo](https://basimulation.org/bgl2015-visualizer/) that I abandoned in July 2019 when I went to work with Julie Smith at [Performance Ally, LLC](https://www.performanceally.com). The demo was entirely "hard-coded". I had started expanding it into something more flexible and configurable before I went to work with Julie. While I will not be using this code, for a variety of reasons, this blog posting illustrates the direction of travel:
 - [Update: Two Years After](https://basimulation.org/2019/07/10/update-two-years-after/)
-### Starting Over: May 2026
+# Starting Over: May 2026
 
 As I originally writing this in mid-March, 2026. I was winding down my involvement in Performance Ally, LLC. Just a few cleanup tasks to complete, and a few more meetings to attend. My last day: Friday 8 May 2026 (which ended up being 15 June instead).
 
@@ -24,6 +24,24 @@ Then I restart my BASimulation activities. From scratch. Clean-room.
 The old demo code is worthless. Its intent was very simply to help me visualize what was happening in the ANN described by José Burgos. The class based architecture worked well for that purpose, but cannot be scaled. The old version of Swift would be a lot of work to convert to the current version, even if the code were useful. The Apple ecosystem has changed dramatically, and some of what I created "back when" is no longer at all applicable.
 
 "Starting over" was further delayed by the need to address health issues. Getting old is not for the feint of heart. So the starting over date is more like October 2026. 
+
+# But: Advantages
+
+Much has changed since I last worked on this project back in June/July of 2019. Most importantly: Apple Silicon and "AI".
+
+The Intel Macs of that past era did not have much in the way of GPUs, and did not have unified high bandwidth memory. In fact, it seems to only be Apple Silicon is the only affordable system that has truly unified memory with high bandwidth. Other systems have versions of unified memory, but with limitations that drastically reduce actual throughput. Way to go, Apple!
+
+Then there are LLMs. My experience with LLMs, even the ones touted as being great for generating code, leave me a bit gobsmacked that anyone turns AI agents loose to create applications, or any major code. Major technical debt is hiding in the shadows out there. There are ways to use such agents, but it does require a lot of human-in-the-loop, and those humans need to be skilled developers. 
+
+Coding has always been the easy part, and that is what LLMs are *only* moderately good at. The process still requires analytic skills that LLMs fail at. Similarly for understanding application domains (other than simple CRUD apps) and designing, implementing, code for non-trivial domains. Claude and OpenAI both failed miserably at generating simple Flutter/Dart code. They did ridiculous things even with Python, on which it was extensively trained. But still: LLMs are great search/summarization tools, and can lead me into the right ball park. Most of the time. 
+
+The Apple ecosystem has matured. [Apple's AI related APIs](https://developer.apple.com/machine-learning/resources/) are much easier to use than what I have seen for other systems. The [Swift language](https://www.swift.org) has matured to be faster and safer, while still supporting programmer productivity.
+
+Not so sure about Apple's GUI libraries. I was quite comfortable with [Cocoa and Cocoa Touch](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html). They are still supported (though deprecated), but the new [SwiftUI](https://developer.apple.com/swiftui/) is the recommended tool for most purposes. It has been characterized as "React on steroids"; is that good or bad? SwiftUI is supposed to be faster to develop with, but apparently has problems with fine detail. We shall see.
+
+The [Python language](https://www.python.org) has also matured and become much more powerful. To slow for implementing the simulation, but great for data analysis. When it first came out I thought it was a silly joke, especially give all of the other scripting languages available at the time. But over the past few years I have come to appreciate what it has grown into. It is now my favorite scripting language, and even application language where performance is not an issue.
+
+This seems to be a good to to start over.
 
 ---
 
