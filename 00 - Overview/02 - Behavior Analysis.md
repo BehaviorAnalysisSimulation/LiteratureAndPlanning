@@ -14,7 +14,7 @@ The books are referenced hundreds, if not thousands of times throughout the EAB 
 
 ### Moving On
 
-I have not read the [Catania](https://www.abainternational.org/constituents/bios/charlescatania.aspx) learning book. But having attended many of his presentations at the [ABAI](https://www.abainternational.org/welcome.aspx) annual convention and having read many of his JEAB articles, I am confident in recommending this 2013 book. Good way to span the years from Skinner's old works to today.
+I have not read the [Catania](https://www.abainternational.org/constituents/bios/charlescatania.aspx) learning book. But having attended many of his presentations at the [ABAI](https://www.abainternational.org/welcome.aspx) annual conventions and having read many of his JEAB articles, I am confident in recommending this 2013 book. Good way to span the years from Skinner's old works to today.
 - [Catania, A.C. (2013)](../References.md#catania-2013). *Learning, 5th Edition*
 
 ### Biological Behaviorism
