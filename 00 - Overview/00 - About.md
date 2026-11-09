@@ -93,7 +93,7 @@ The [Journal of the Experimental Analysis of Behavior (JEAB)](https://onlinelibr
 
 In software development there is the practice of "test-first development" in which tests are developed along with the code, or leading code development. *(What we actually called it decades ago was "test driven development", but that name has been co-opted by the "Agile" or "Extreme Programming" folks to means something different with a lot of additional ritual and rigid processes baked in. Agile is generally not very agile)*
 
-JEAB experiments define the final tests for any major development cycle. When the insilico organism can take part in such an experiment and produce the same results, the development has succeeded for that particular experiment. Of course this is much much more complicated than stated here (e.g., what is meant by "same results", how evaluated?). Each software setup for each experiment is added to the overall suite of tests, and the entire suite must be passed. If modifying the software to get it to pass for one experiment causes failures in other tests: rinse repeat.
+JEAB experiments define the final tests for any major development cycle. When the insilico organism can take part in such an experiment and reproduce the results, the development has succeeded for that particular experiment. Of course this is much much more complicated than stated here (e.g., what is meant by "same results", how evaluated?). Each software setup for each experiment is added to the overall suite of tests, and the entire suite must be passed. If modifying the software to get it to pass for one experiment then causes failures in other tests: rinse repeat.
 
 # My Bucket List: One Item
 
