@@ -8,6 +8,8 @@ I know nothing about behavioral neuroscience. I know that there are behavioral n
 
 I am hoping that behavioral neuroscientists have already mapped neural functioning to behavior more than what I have seen in the work Donahoe, et al., to reduce the effort of determining what "load bearing" functionality I must simulate.
 
+Have not even started looking at the literature.
+
 We shall see.
 
 
