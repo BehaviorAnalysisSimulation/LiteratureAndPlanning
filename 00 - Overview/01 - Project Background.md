@@ -37,7 +37,7 @@ The Intel Macs of that past era did not have much in the way of GPUs, and did no
 
 Then there are LLMs. My experience with LLMs, even the ones touted as being great for generating code, leave me a bit gobsmacked that anyone turns AI agents loose to create applications, or any major code. Major technical debt is growing and hiding in the shadows out there (not even to mention Agile's "high velocity technical debt" on top of it). There are ways to use such agents, but it does require a lot of human-in-the-loop, and those humans need to be skilled developers. 
 
-Coding has always been the easy part, and that is what LLMs are *only* moderately good at. The process still requires analytic skills that LLMs fail at. Similarly for understanding application domains (other than simple CRUD apps) and designing, implementing, code for non-trivial domains. Claude and OpenAI both failed miserably at generating simple Flutter/Dart code. They did ridiculous things even with Python, on which it was extensively trained. But still: LLMs are great search/summarization tools, and can lead me into the right ball park. Most of the time. 
+Coding has always been the easy part, and that is what LLMs are *only* moderately good at. The process still requires analytic skills that LLMs fail at. Similarly for understanding application domains (other than simple CRUD apps) and designing, implementing, code for non-trivial domains. Claude and OpenAI both failed miserably at generating simple Flutter/Dart code. They did ridiculous things even with Python, on which they were extensively trained. But still: LLMs are great search/summarization tools, and can lead me into the right ball park. Most of the time. 
 
 ### Maturing systems
 
