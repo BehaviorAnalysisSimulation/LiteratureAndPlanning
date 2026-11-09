@@ -29,11 +29,17 @@ The old demo code is worthless. Its intent was very simply to help me visualize 
 
 Much has changed since I last worked on this project back in June/July of 2019. Most importantly: Apple Silicon and "AI".
 
+### Hardware
+
 The Intel Macs of that past era did not have much in the way of GPUs, and did not have unified high bandwidth memory. In fact, it seems to only be Apple Silicon is the only affordable system that has truly unified memory with high bandwidth. Other systems have versions of unified memory, but with limitations that drastically reduce actual throughput. Way to go, Apple!
+
+### So called "AI"
 
 Then there are LLMs. My experience with LLMs, even the ones touted as being great for generating code, leave me a bit gobsmacked that anyone turns AI agents loose to create applications, or any major code. Major technical debt is growing and hiding in the shadows out there (not even to mention Agile's "high velocity technical debt" on top of it). There are ways to use such agents, but it does require a lot of human-in-the-loop, and those humans need to be skilled developers. 
 
 Coding has always been the easy part, and that is what LLMs are *only* moderately good at. The process still requires analytic skills that LLMs fail at. Similarly for understanding application domains (other than simple CRUD apps) and designing, implementing, code for non-trivial domains. Claude and OpenAI both failed miserably at generating simple Flutter/Dart code. They did ridiculous things even with Python, on which it was extensively trained. But still: LLMs are great search/summarization tools, and can lead me into the right ball park. Most of the time. 
+
+### Maturing systems
 
 The Apple ecosystem has matured. [Apple's AI related APIs](https://developer.apple.com/machine-learning/resources/) are much easier to use than what I have seen for other systems. The [Swift language](https://www.swift.org) has matured to be faster and safer, while still supporting programmer productivity.
 
