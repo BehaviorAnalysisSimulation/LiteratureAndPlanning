@@ -51,7 +51,7 @@ It should be possible to produce a simulated organism that behaves in accordance
 
 ### 1. SelNet as a starting point
 
-For example, try this prompt with your favorite AI (Google AI Mode does a pretty good job *if you are logged in to Google*):
+For example, try this prompt with your favorite AI *(Google AI Mode generally does a pretty good job)*:
 
 ***`Critique the limitations of the Donahoe SelNet model in simulating the real-world observations of behavior analysis, especially as documented in JEAB and JABA`***
 
