@@ -39,11 +39,11 @@ The earliest references to biological behaviorism within behavior analysis liter
 4. [Donahoe, J.W., and Dorsel, V.P. (1997)](../References.md#donahoe-dorsel-1997). *Neural-Network Models of Cognition: Biobehavioral Foundations*. 
 
 The following book *could* be used as an intro to the experimental analysis of behavior (EAB). It does incorporate neuroscience throughout. ***Not sure why it never references all of the preceeding work by Donahoe, et al.***:
-- [Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002)](../References.md#rasmussen-clay-pierce-cheney-2022). *Behavior Analysis and Learning: A Biobehavioral Approach.
+- [Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002)](../References.md#rasmussen-clay-pierce-cheney-2022). *Behavior Analysis and Learning: A Biobehavioral Approach.*
 
 ### Experimental Methodology
 
-This project will use published experimental analysis of behavior (EAB) research as test of simulations. Over time as large suite of test replications of EAB experiments will accrete and will be used to test the simulation software at each step to ensure that the simulations are accurate, valid, whatever. 
+This project will use published experimental analysis of behavior (EAB) research as test of simulations. Over time a large suite of test replications of EAB experiments will accrete and will be used to test the simulation software at each step to ensure that the simulations are accurate, valid, whatever. 
 
 To understand the simulations, it is probably necessary to understand EAB research methodology. Here are two classics:
 1. [Sidman, M. (1960)](../References.md#sidman-1960). *Tactics of Scientific Research: Evaluating Experimental Data in Psychology*. *(I worked in [Don Hake's](https://www.abainternational.org/constituents/bios/donhake.aspx) social behavior EAB lab as an undergrad in the late 1970s. One day he essentially said, "ya gotta up your game", and handed this book to me: Read it. Loved it.)*
