@@ -44,7 +44,7 @@ Oh yeh, who am I? I'm an old software developer with a long-ago background in th
 # Documentation
 ### Navigation
 
-One way to navigate through the document set is via the GitHub navigation panel.
+One way to navigate through this document set is via the GitHub navigation panel.
 
 The other way is via the "Next" link at the bottom of all pages that are part of a structured sequence.
 
