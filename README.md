@@ -17,7 +17,8 @@ Not least of all, it combines multiple passions of my own. As Julie Smith said t
 
 Okay, the real audience is myself. Especially at this early stage.
 
-This project might be of interest to you if you wish to:
+##### This project might be of interest to you if you wish to:
+
 - Play with a virtual insilico-organism" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
 - Use the equivalent of a "behavior analysis spreadsheet" that you can edit to create models and test hypotheses, such as the effects of schedules of reinforcement with various organisms (e.g., rats, pigeons, undergrads).
 - To create training scenarios for learning/training as a precursor to working with live organisms. 
@@ -27,19 +28,25 @@ This project might be of interest to you if you wish to:
 - Take part in multi-organism experiments as one of the organisms.
 - *etc. I'll add more as I think of them ...*
 
-This project might be of interest if:
-- You are a behavior analyst, especially someone in, or interested in, EAB.
-- You are a software developer with an interest in bio-plausible artificial neural networks and organisms *(when there is something releasable it will be open source MVC libraries)*.
-- You have an interest in behavioral neuroscience, or traditional neuroscience, and want to look at the relationship among simulated neural systems and behavior (though the neuroscience simulations will be rather crude).
+##### This project might be of interest if:
+
+- **You are a behavior analyst**, especially someone in, or interested in, EAB.
+- **You are a software developer** with an interest in bio-plausible artificial neural networks and organisms *(when there is something releasable it will be open source MVC libraries)*.
+- **You have an interest in behavioral neuroscience, or traditional neuroscience**, and want to look at the relationship among simulated neural systems and behavior (though the neuroscience simulations will be rather crude).
 
 ### Status
 
 Just getting back to this project after a seven year hiatus. I expect progress will be glacial: I'm old.
 
-Oh yeh, who am I? I'm an old software developer with a long-ago background in the experimental analysis of behavior. See 
+This will be an open source project. Currently no code. Currently this is a one man band. But in the future?
+
+Oh yeh, who am I? I'm an old software developer with a long-ago background in the experimental analysis of behavior. 
+
+See:
 1. "Experience" on my [LinkedIn](https://www.linkedin.com/in/tom-donaldson-a3879b87/) profile and,
 2. JEAB article: [Hake, Donaldson, & Hyten](./References.md#hake-donaldson-hyten-1983).
 3. [Donaldson & Hyten, photo circa 1980](./Resources/ToydAndClom.jpg)
+
 
 # Documentation
 ### Navigation
