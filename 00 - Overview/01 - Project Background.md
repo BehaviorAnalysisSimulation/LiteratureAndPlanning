@@ -23,7 +23,7 @@ Then I restart my BASimulation activities. From scratch. Clean-room.
 
 The old demo code is worthless. Its intent was very simply to help me visualize what was happening in the ANN described by José Burgos. The class based architecture worked well for that purpose, but cannot be scaled. The old version of Swift would be a lot of work to convert to the current version, even if the code were useful. The Apple ecosystem has changed dramatically, and some of what I created "back when" is no longer at all applicable.
 
-"Starting over" was further delayed by the need to address health issues. Getting old is not for the feint of heart. So the starting over date is more like October 2026. 
+"Starting over" was further delayed by the need to address health issues. Getting old is not for the faint of heart. So the starting over date is more like October 2026. 
 
 # But: Advantages
 
