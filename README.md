@@ -11,7 +11,7 @@ This goes the reverse direction as well: in order to simulate behavior with the 
  
 We have a massive body of "rigorous description" available in [Skinner's work](https://www.bfskinner.org/bookstore/), [JEAB](https://onlinelibrary.wiley.com/journal/19383711), JABA, JVB, JOBM, etc. Neuroscience has progressed enormously since 1938. We have relatively inexpensive highly capable hardware that we can sit on our desktops, systems which once would have required their own buildings. This seems to be a good time to tackle simulation of behavioral processes. 
 
-Not least of all, it combines multiple passions of my own. As Julie Smith said to me when I retired in June 2026, "Enjoy your twilight years!"
+Not least of all, it combines multiple passions of my own. As [Julie Smith](https://business.wvu.edu/alumni/business-hall-of-fame/inductees/julie-m-smith) said to me when I retired in June 2026, "Enjoy your twilight years!"
 
 ### Audience
 
