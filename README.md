@@ -1,11 +1,38 @@
 # README
 
-The **"README first" page:** Top level intro Markdown formatted page as expected within GitHub and GitLab repositories.
+This is the **"README first" page:** Top level intro Markdown formatted page as expected within GitHub and GitLab repositories and subdirectories. Displayed by GitHub/GitLab when viewing repositories and their subdirectories via a browser.
 # Project Purpose
 
-Retirement hobby project to develop a virtual "insilico-organism" that behaves in accord with the observations of behavior analysis as documented in [Skinner's work](https://www.bfskinner.org/bookstore/), [JEAB](https://onlinelibrary.wiley.com/journal/19383711), JABA, JVB, JOBM, etc.
+As far back as [Skinner, B.F. (1938)](../References.md#skinner-1938) (page 454 in PDF, page 422 in hardcover?), Skinner noted (emphasis mine):
 
-Such a virtual organism could ultimately be used to test "what if" behavioral scenarios as a cheap, fast, convenient way to test out behavior analytic ideas, procedures, etc. It could also be used in teaching and training.
+ >"What is generally not understood by those interested in establishing neurological bases is that a ***rigorous description at the level of behavior is necessary*** for the demonstration of a neurological correlate. 
+ 
+This goes the reverse direction as well: in order to simulate behavior with the same flexibility shown by live organisms across environments, we need both the "rigorous description at the level of behavior" and a significant level of understanding of the underlying neuroscience.
+ 
+We have a massive body of "rigorous description" available in [Skinner's work](https://www.bfskinner.org/bookstore/), [JEAB](https://onlinelibrary.wiley.com/journal/19383711), JABA, JVB, JOBM, etc. Neuroscience has progressed enormously since 1938. We have relatively inexpensive highly capable hardware that we can sit on our desktops, systems which once would have required their own buildings. This seems to be a good time to tackle simulation of behavioral processes. 
+
+Not least of all, it combines multiple passions of my own. As Julie Smith said to me when I retired in June 2026, "Enjoy your twilight years!"
+
+### Audience
+
+Okay, the real audience is myself. Especially at this early stage.
+
+This project might be of interest to you if you wish to:
+- Play with a virtual insilico-organism" that behaves in accord with the observations of behavior analysis as documented in [Skinner's work](https://www.bfskinner.org/bookstore/), [JEAB](https://onlinelibrary.wiley.com/journal/19383711), JABA, JVB, JOBM, etc.
+- Use the equivalent of a "behavior analysis spreadsheet" that you can edit to create models and test hypotheses, such as the effects of schedules of reinforcement with various organisms (e.g., rats, pigeons, undergrads).
+- To create training scenarios for learning/training as a precursor to working with live organisms. 
+- Run multi-organism experiments without need for live organisms, e.g., social behavior experiments.
+- Run large numbers multi-session experiments in a fraction of the time an actual live-organism experiment would take.
+- Watch and control such experiments in a virtual environment, either on screen or via Apple Vision Pro (or maybe some other AR/VR headgear) in real time.
+- Take part in multi-organism experiments as one of the organisms.
+- *etc. I'll add more as I think of them ...*
+
+This project might be of interest if:
+- You are a behavior analyst, especially someone in, or interested in, EAB.
+- You are a software developer with an interest in bio-plausible artificial neural networks and organisms *(when there is something releasable it will be open source MVC libraries)*.
+- You have an interest in behavioral neuroscience, or traditional neuroscience, and want to look at the relationship among simulated neural systems and behavior (though the neuroscience simulations will be rather crude).
+
+### Status
 
 Just getting back to this project after a seven year hiatus. I expect progress will be glacial: I'm old.
 
