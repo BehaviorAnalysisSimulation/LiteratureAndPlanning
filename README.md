@@ -22,7 +22,7 @@ This project might be of interest to you if you wish to:
 - Use the equivalent of a "behavior analysis spreadsheet" that you can edit to create models and test hypotheses, such as the effects of schedules of reinforcement with various organisms (e.g., rats, pigeons, undergrads).
 - To create training scenarios for learning/training as a precursor to working with live organisms. 
 - Run multi-organism experiments without need for live organisms, e.g., social behavior experiments.
-- Run large numbers multi-session experiments in a fraction of the time an actual live-organism experiment would take.
+- Run large numbers of multi-session experiments in a fraction of the time an actual live-organism experiment would take.
 - Watch and control such experiments in a virtual environment, either on screen or via Apple Vision Pro (or maybe some other AR/VR headgear) in real time.
 - Take part in multi-organism experiments as one of the organisms.
 - *etc. I'll add more as I think of them ...*
