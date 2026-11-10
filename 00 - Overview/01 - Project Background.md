@@ -31,7 +31,7 @@ Much has changed since I last worked on this project back in June/July of 2019. 
 
 ### Hardware
 
-The Intel Macs of that past era did not have much in the way of GPUs, and did not have unified high bandwidth memory. In fact, it seems to only be Apple Silicon is the only affordable system that has truly unified memory with high bandwidth. Other systems have versions of unified memory, but with limitations that drastically reduce actual throughput. Way to go, Apple!
+The Intel Macs of that past era did not have much in the way of GPUs, and did not have unified high bandwidth memory. In fact, it seems Apple Silicon is the only affordable system that has truly unified memory with high bandwidth. Other systems have versions of unified memory, but with limitations that drastically reduce actual throughput. Way to go, Apple!
 
 ### So called "AI"
 
