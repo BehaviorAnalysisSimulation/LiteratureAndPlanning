@@ -17,7 +17,7 @@ This led me to create the [demo](https://basimulation.org/bgl2015-visualizer/) t
 - [Update: Two Years After](https://basimulation.org/2019/07/10/update-two-years-after/)
 # Starting Over: May 2026
 
-As I originally writing this in mid-March, 2026. I was winding down my involvement in Performance Ally, LLC. Just a few cleanup tasks to complete, and a few more meetings to attend. My last day: Friday 8 May 2026 (which ended up being 15 June instead).
+When I started writing this in mid-March, 2026. I was winding down my involvement in Performance Ally, LLC. Just a few cleanup tasks to complete, and a few more meetings to attend. My last day: Friday 8 May 2026 (which ended up being 15 June instead).
 
 Then I restart my BASimulation activities. From scratch. Clean-room.
 
