@@ -4,7 +4,7 @@
 
 # TODO
 
-I know nothing about behavioral neuroscience. I know that there are behavioral neuroscience faculty her in Morgantown at WVU who are in, or associated with, the behavior analysis program. I have me one (or more) at a psych department part at Julie Smith's house. But that is it.
+I know nothing about behavioral neuroscience. I know that there are behavioral neuroscience faculty her in Morgantown at WVU who are in, or associated with, the behavior analysis program. I have met one (or more) at a psych department part at Julie Smith's house. But that is it.
 
 I am hoping that behavioral neuroscientists have already mapped neural functioning to behavior more than what I have seen in the work Donahoe, et al., to reduce the effort of determining what "load bearing" functionality I must simulate.
 
