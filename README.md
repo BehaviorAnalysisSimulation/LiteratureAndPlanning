@@ -53,7 +53,7 @@ The documents are in a common technical writing format frequently used in softwa
 
 The specific writing tool I use is [Obsidan](https://obsidian.md), which has a concept of a "vault" used to interrelated documents in the set. The "vault" and all its documents are stored in [Git](https://git-scm.com). Git is a coding version control system. It is the most popular version control system among software developers these days, though there are many many others.
 
-Here is the GitHub url for this README.md file:
+Here is the GitHub url for *this* README.md file:
 - [BehaviorAnalysisSimulation/LiteratureAndPlanning/README.md](https://github.com/BehaviorAnalysisSimulation/LiteratureAndPlanning/blob/main/README.md)
 
 ### LLM Usage
