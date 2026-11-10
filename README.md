@@ -18,7 +18,7 @@ Not least of all, it combines multiple passions of my own. As Julie Smith said t
 Okay, the real audience is myself. Especially at this early stage.
 
 This project might be of interest to you if you wish to:
-- Play with a virtual insilico-organism" that behaves in accord with the observations of behavior analysis as documented in [Skinner's work](https://www.bfskinner.org/bookstore/), [JEAB](https://onlinelibrary.wiley.com/journal/19383711), JABA, JVB, JOBM, etc.
+- Play with a virtual insilico-organism" that behaves in accord with the observations of behavior analysis as documented in Skinner's work, JEAB, JABA, JVB, JOBM, etc.
 - Use the equivalent of a "behavior analysis spreadsheet" that you can edit to create models and test hypotheses, such as the effects of schedules of reinforcement with various organisms (e.g., rats, pigeons, undergrads).
 - To create training scenarios for learning/training as a precursor to working with live organisms. 
 - Run multi-organism experiments without need for live organisms, e.g., social behavior experiments.
