@@ -3,7 +3,7 @@
 This is the **"README first" page:** Top level intro Markdown formatted page as expected within GitHub and GitLab repositories and subdirectories. Displayed by GitHub/GitLab when viewing repositories and their subdirectories via a browser.
 # Project Purpose
 
-As far back as [Skinner, B.F. (1938)](../References.md#skinner-1938) (page 454 in PDF, page 422 in hardcover?), Skinner noted (emphasis mine):
+As far back as [Skinner, B.F. (1938)](./References.md#skinner-1938) (page 454 in PDF, page 422 in hardcover?), Skinner noted (emphasis mine):
 
  >"What is generally not understood by those interested in establishing neurological bases is that a ***rigorous description at the level of behavior is necessary*** for the demonstration of a neurological correlate. 
  
