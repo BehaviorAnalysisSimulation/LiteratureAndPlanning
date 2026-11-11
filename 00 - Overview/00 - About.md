@@ -126,5 +126,6 @@ See references:
 - **NEXT:** [01 - Project Background](./01%20-%20Project%20Background.md)
 
 ---
+[Neural Architecture Reference](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 [References](../References.md)
 
