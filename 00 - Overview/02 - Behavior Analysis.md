@@ -78,9 +78,15 @@ It seems that the same sorts of inputs, variables, and data, are the same across
 Probably none. 
 
 ---
-
+---
+# Also see
+- [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
+- [References](../References.md)
+---
+---
+# Navigation
 - *Previous: [01 - Project Background](./01%20-%20Project%20Background.md)*
 - **NEXT:** [03 - Behavioral Neuroscience](./03%20-%20Behavioral%20Neuroscience.md)
-
 ---
-[References](../References.md)
+---
+

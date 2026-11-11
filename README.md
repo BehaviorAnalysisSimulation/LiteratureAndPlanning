@@ -82,11 +82,13 @@ So: take everything I say with a grain of salt, but take my LLM quotes with a st
 The non-code version of a liberal "open source". See [LICENSE](./LICENSE.md).
 
 ---
-### Also see
+---
+# Also see
 - [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 - [References](./References.md)
 ---
 ---
-### Navigation
+# Navigation
 - **NEXT:** [Overview: 00 - About](./00%20-%20Overview/00%20-%20About.md)
+---
 ---
