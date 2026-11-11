@@ -121,12 +121,12 @@ See references:
 ***I should add a "people" page ... but not right now.***
 
 ---
-
-### Navigation
-- *Previous: [TOP: README.md](../README.md)*
-- **NEXT:** [01 - Project Background](./01%20-%20Project%20Background.md)
-
----
 ### Also see
 - [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 - [References](../References.md)
+---
+---
+### Navigation
+- *Previous: [TOP: README.md](../README.md)*
+- **NEXT:** [01 - Project Background](./01%20-%20Project%20Background.md)
+---
