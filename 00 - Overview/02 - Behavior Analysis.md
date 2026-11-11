@@ -31,6 +31,8 @@ As far back as [Skinner, B.F. (1938)](../References.md#skinner-1938) (page 454 i
 
 That is, the ***neurological facts*** are not in and of themselves of interest. They are only of interest in so far that they inform the software architecture, and produce simulations that faithfully replicate the ***rigourous descriptions of behavior***. And in fact, because of the compute limitations of any hardware/software system that might be used, these ***neurological facts*** must be boiled down to the most general, smallest, principled heuristic possible.  [Donahoe, Burgos, and Palmer (1993)](../References.md#donahoe-burgos-palmer-1993) illustrates such a principled heuristic for a basic selectionist simulation based on a ***unified principle of selection***. The neurologic algorithms must be fast/efficient enough to run on affordable hardware, while begin detailed/complex enough to produce the desired behavior.
 
+##### John Donahoe, et al.
+
 The earliest references to biological behaviorism within behavior analysis literature seem to be in the work of Donahoe, et al. The initial simulations in this project will be based on this literature (and additional works by some of these authors):
 
 1. [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) *The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing*. Great article comparing/contrasting behavior analytic and cognitive approaches to complex behavior, and the use of neural nets in modeling behavior. 
@@ -41,7 +43,12 @@ The earliest references to biological behaviorism within behavior analysis liter
 This diagram started out mostly as a means of getting a fuller picture of the neural structure on which the work of Donahoe, et al., is based. It is LLM generated, and provides a link to instructions modifying and regenerating the diagram:
 - [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
-The following book *could* be used as an intro to the experimental analysis of behavior (EAB). It does incorporate neuroscience throughout. ***Not sure why it never references any of the preceeding work by Donahoe, et al.***:
+##### Rasmussen, et al.
+
+I had only just started reading this book when I started obsessing about the lack of references to Donahoe's work, which preceeded it by a 5-13 years. When I get back to it, I will try to figure out ***why*** it does not reference Donahoe.
+
+The following book *could* be used as an intro to the experimental analysis of behavior (EAB). It does incorporate neuroscience throughout. 
+
 - [Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002)](../References.md#rasmussen-clay-pierce-cheney-2022). *Behavior Analysis and Learning: A Biobehavioral Approach.*
 
 ### Experimental Methodology
