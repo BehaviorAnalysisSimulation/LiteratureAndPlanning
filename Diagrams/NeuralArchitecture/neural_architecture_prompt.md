@@ -1,0 +1,175 @@
+# Prompt for Generating the Neural Architecture Reference
+
+This file shows how `neural_architecture_reference.md` was made and gives a single prompt that reproduces it. Part 1 records the original requests in order. Part 2 combines them into one prompt that you can edit.
+
+---
+
+## Part 1. How the document was made
+
+The document came from six requests to Claude in one conversation. Each request built on Claude's previous answer.
+
+| Step | Request | Result |
+|---|---|---|
+| 1 | "Generate a Mermaid diagram illustrating the relationships, data flows, among these structures: primary sensory cortex (PSC), sensory association cortex (SAC), polysensory association cortex (PAC), hippocampus, CA1 neurons, motor neural areas, thalamus, reticular activation system (RAS)." | Left-to-right diagram. Specific pathways solid, diffuse projections dashed. Layer labels S′, S″, M″, M′ from Donahoe, Burgos & Palmer (1993). |
+| 2 | "Add in the VTA dopamine, basal ganglia and cerebellum basal forebrain." | Added VTA reinforcement inputs and outputs, the basal ganglia direct and indirect routes, the cerebellar loop, and basal forebrain cholinergic projections. |
+| 3 | "Yes add the SNc." | Added the SNc. Split the striatum into dorsal and ventral parts so the nigrostriatal and mesolimbic dopamine pathways stay separate. Added the ventral pallidum and the mediodorsal thalamic nucleus. |
+| 4 | "Add a table with columns for the name of each component and a short description of it (125 words or less), and a similarly short description of the flows. Output it as a Markdown document." | Markdown document with the diagram and a 31-row table of components and flows. |
+| 5 | "The components of the diagram are too small to read. How can I make it resizable within a markdown doc, or maybe it would be better as a TD diagram vs LR, with select components within the diagram as LR." | Replaced the one large diagram with an overview plus four focused top-to-bottom diagrams, each set to render at full size. |
+| 6 | "Generate a prompt that can be used with Claude to replicate the document." | This file. |
+
+Two settings in the Claude project applied to every request:
+
+- **Persona and style:** Radical behaviorist and experienced software developer. Factual, non-emotional, written in the style of Strunk & White.
+- **Formatting:** Markdown documents, with Mermaid diagrams that use `<br/>` for line breaks inside labels.
+
+---
+
+## Part 2. The prompt
+
+Copy everything between the two lines marked `PROMPT START` and `PROMPT END` into a new Claude conversation. Sections marked **[EDIT]** are the usual places to make changes; the rest can stay as written.
+
+````text
+=== PROMPT START ===
+
+ROLE AND STYLE
+Write as a radical behaviorist with expertise in the experimental analysis of
+behavior and in computational modeling of neural networks. Be factual and
+non-emotional. Use the style of Strunk & White: plain words, active voice,
+no needless words.
+
+TASK
+Produce one Markdown document (.md) titled
+"Neural Architecture Reference: Sensory, Hippocampal, Motor, and
+Neuromodulatory Systems". It describes the structures listed below, how they
+connect, and what flows between them. The document has three parts:
+(1) Mermaid diagrams, (2) a table of components and flows, (3) references.
+
+THEORETICAL FRAME  [EDIT]
+Where a structure corresponds to a layer of the selection network in
+Donahoe, Burgos & Palmer (1993), give its layer label:
+  - Sensory association cortex = S′
+  - Polysensory association cortex = S″
+  - Motor association cortex = M″
+  - Primary motor cortex = M′
+In that model, CA1 output is a diffuse discrepancy signal that lets S′ and S″
+connection weights change. VTA dopamine is a diffuse reinforcing signal sent
+to M″ and CA1. M″ projects to the VTA (conditioned reinforcement).
+Where the model's treatment differs from anatomy, say so in the table. For
+example, CA1 reaches cortex through specific pathways via the subiculum and
+entorhinal cortex, but the model treats its output as diffuse.
+
+COMPONENTS  [EDIT: add, remove, or rename structures here]
+Group the components as follows:
+  - Environment, sensory receptors, response
+  - Thalamus: sensory relay nuclei (LGN, MGN, VPL); motor relay nuclei
+    (VA, VL); mediodorsal nucleus (MD); intralaminar and reticular nuclei
+  - Sensory cortex: primary sensory cortex (PSC), sensory association
+    cortex (SAC), polysensory association cortex (PAC)
+  - Hippocampal formation: entorhinal cortex; dentate gyrus and CA3;
+    CA1 neurons
+  - Motor neural areas: motor association cortex; primary motor cortex;
+    brainstem and spinal motor neurons
+  - Basal ganglia: dorsal striatum (caudate, putamen); ventral striatum
+    (nucleus accumbens); globus pallidus external (GPe); subthalamic nucleus
+    (STN); GPi / SNr; ventral pallidum
+  - Midbrain dopamine: ventral tegmental area (VTA); substantia nigra pars
+    compacta (SNc)
+  - Cerebellar system: pontine nuclei; cerebellar cortex; deep cerebellar
+    nuclei; inferior olive
+  - Basal forebrain: nucleus basalis of Meynert; medial septum / diagonal band
+  - Reticular activating system (RAS), including the pedunculopontine
+    nucleus (PPTg)
+
+PATHWAYS TO INCLUDE  [EDIT]
+  - Main sensory-to-motor path: receptors → thalamic sensory relay → PSC →
+    SAC → PAC → motor association cortex → primary motor cortex → motor
+    neurons → response → environment (consequences).
+  - Corticothalamic feedback from PSC to the sensory relay nuclei.
+  - Hippocampal loop: PAC → entorhinal → dentate gyrus/CA3 → CA1 →
+    (subiculum) → entorhinal → PAC. CA1 sends a diffuse discrepancy signal
+    to SAC and PAC.
+  - Dorsal basal ganglia loop: SAC, M″, M′ → dorsal striatum. Direct route
+    to GPi/SNr. Indirect route through GPe and STN to GPi/SNr. GPi/SNr
+    tonically inhibit VA/VL, which project to M″ and M′.
+  - Ventral basal ganglia loop: PAC, CA1 (via subiculum), M″ → ventral
+    striatum → ventral pallidum → MD → M″.
+  - Dopamine: unconditioned reinforcers and PPTg bursts drive VTA and SNc.
+    M″ → VTA. Inhibitory striatonigral feedback (ventral striatum → VTA,
+    dorsal striatum → SNc). VTA → M″ (mesocortical), CA1 (diffuse), and
+    ventral striatum (mesolimbic). SNc → dorsal striatum (nigrostriatal).
+  - Cerebellar loop: M″ and M′ → pontine nuclei → cerebellar cortex (mossy
+    fibers). Spinocerebellar mossy fibers from receptors. Inferior olive →
+    cerebellar cortex (climbing fibers carrying an error signal). Purkinje
+    cells inhibit the deep nuclei. Deep nuclei → VA/VL, and through the red
+    nucleus → motor neurons.
+  - Arousal and acetylcholine: sensory collaterals → RAS. RAS → intralaminar
+    and reticular thalamic nuclei → diffuse activation of sensory and motor
+    cortex. RAS → nucleus basalis → diffuse acetylcholine to cortex. RAS →
+    medial septum → hippocampal theta (acetylcholine and GABA).
+
+DIAGRAM REQUIREMENTS
+  - Use Mermaid `flowchart TD`.
+  - Draw one overview at the subsystem level, then focused diagrams:
+      1. Overview
+      2. Sensory–hippocampal–motor pathway (selection-network core)
+      3. Basal ganglia and midbrain dopamine
+      4. Cerebellar system
+      5. Arousal and cholinergic modulation
+    Keep each focused diagram to about 15 nodes or fewer.
+  - Start each diagram with this line so it renders at full size and is
+    readable:
+    %%{init: {"flowchart": {"useMaxWidth": false, "nodeSpacing": 50,
+    "rankSpacing": 60}, "themeVariables": {"fontSize": "18px"}}}%%
+  - Solid arrows (-->) mark specific, topographic pathways. Dashed arrows
+    (-.->) mark diffuse or modulatory projections. Explain this above the
+    diagrams.
+  - Label edges with the pathway name or sign (inhibitory, excitatory,
+    mossy fibers, and so on).
+  - Use "<br/>" for line breaks in labels, never "\n". Put labels that
+    contain spaces or special characters in double quotes.
+  - Do not use `direction LR` inside groups. Mermaid ignores it when a
+    group's nodes connect to nodes outside the group.
+
+TABLE REQUIREMENTS
+  - Use one Markdown table with three columns: Component | Description |
+    Flows.
+  - Give each component in the list above its own row, in diagram order.
+    Put component names in bold.
+  - Description: what the structure is and what it does. 125 words or
+    fewer; 15–35 is typical.
+  - Flows: what it receives and what it sends, using the pathway names from
+    the diagrams. 125 words or fewer.
+  - Where it applies, give the selection-network label and role.
+
+REFERENCES  [EDIT]
+Donahoe, J. W., Burgos, J. E., & Palmer, D. C. (1993). A selectionist
+approach to reinforcement. Journal of the Experimental Analysis of Behavior,
+60(1), 17–40.
+
+CHECKS BEFORE DELIVERING
+  - Every node in the diagrams appears in the table, and every table row
+    appears in at least one diagram.
+  - Pathway names and signs match between the diagrams and the table.
+  - No table cell is longer than 125 words.
+  - If you can, render each Mermaid block (for example with mermaid-cli) to
+    confirm it parses and is readable.
+
+Deliver the result as a downloadable .md file.
+
+=== PROMPT END ===
+````
+
+---
+
+## Common changes
+
+| To do this | Change this section |
+|---|---|
+| Add or remove a structure | **COMPONENTS** and **PATHWAYS TO INCLUDE**. Name the focused diagram it belongs in. |
+| Use a different theory (for example Rescorla–Wagner or temporal-difference learning) | **THEORETICAL FRAME** and **REFERENCES** |
+| Shorten the table | **TABLE REQUIREMENTS**: lower the word limit or drop the Flows column |
+| Get a left-to-right layout for printing on wide pages | **DIAGRAM REQUIREMENTS**: change `TD` to `LR` and reduce the font size |
+| Generate model code from the document | Add: "Then write Swift types that represent each component and pathway as a directed graph." |
+| Change the voice | **ROLE AND STYLE** |
+
+Changes go faster in small steps, the way the original was made: run the base prompt, then ask for one change at a time ("add the amygdala to diagrams 1 and 3 and the table").
