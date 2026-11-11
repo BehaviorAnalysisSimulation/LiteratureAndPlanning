@@ -52,12 +52,13 @@ The [Python language](https://www.python.org) has also matured and become much m
 This seems to be a good to to start over.
 
 ---
-### Also see
+---
+# Also see
 - [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 - [References](../References.md)
 ---
 ---
-### Navigation
+# Navigation
 - *Previous: [00 - About](./00%20-%20About.md)*
 - **NEXT:** [02 - Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
 ---
