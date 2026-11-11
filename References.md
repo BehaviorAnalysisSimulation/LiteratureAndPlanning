@@ -139,6 +139,7 @@ No real pattern to the note taking. I sometimes take notes as I skim/read an art
 
 <a name="reese-parrott-1986"></a>
 **Reese, H. W., & Parrott, L. J. (Eds.)(1986)**. *Behavior Science: Philosophical, Methodological, and Empirical Advances.* Lawrence Erlbaum Associates. https://www.amazon.com/dp/B0CWVG535P
+
 <a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
 
