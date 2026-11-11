@@ -66,9 +66,11 @@ This could be a very big topic in its own right, and I am ***not*** really conve
 Most of the early simulation in this project will be based on the early works of John Donahoe and José Burgos. This was largely pretty much straight-up selectionism in the radical behaviorist tradition. So: I'm okay for a while.
 
 For the time being, here is a relatively easy introduction to interbehaviorism, assuming you are already up to speed on radical behaviorism:
+
 - [Morris, E. K. (1984)](../References.md#morris-1984). Iterbehavioral Psychology and Radical Behaviorism: Some Similarities and Differences. *The Behavior Analyst, 7, 197-204*.]
 
-An oldie, by people I know:
+An oldie. Knew the editors, plus authors of *Chapter 6: SOCIAL RELATIONS AND SOCIAL BEHAVIOR* *(have not read it yet)*:
+
 - [Reese, H. W., & Parrott, L. J. (Eds.)(1986)](../References.md#reese-parrott-1986). *Behavior Science: Philosophical, Methodological, and Empirical Advances.* 
 ### TODO:
 1. Need examples of experiments from an interbehavioral approach. 
