@@ -127,5 +127,6 @@ See references:
 
 ---
 [Neural Architecture Reference](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
+
 [References](../References.md)
 
