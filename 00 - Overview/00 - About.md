@@ -122,8 +122,8 @@ See references:
 
 ---
 
-- Previous: [TOP: README.md](../README.md)
-- Next: [01 - Project Background](./01%20-%20Project%20Background.md)
+- *Previous: [TOP: README.md](../README.md)*
+- **NEXT:** [01 - Project Background](./01%20-%20Project%20Background.md)
 
 ---
 [References](../References.md)

@@ -79,8 +79,8 @@ Probably none.
 
 ---
 
-- Previous: [01 - Project Background](./01%20-%20Project%20Background.md)
-- Next: [03 - Behavioral Neuroscience](./03%20-%20Behavioral%20Neuroscience.md)
+- *Previous: [01 - Project Background](./01%20-%20Project%20Background.md)*
+- **NEXT:** [03 - Behavioral Neuroscience](./03%20-%20Behavioral%20Neuroscience.md)
 
 ---
 [References](../References.md)

@@ -53,8 +53,8 @@ This seems to be a good to to start over.
 
 ---
 
-- Previous: [00 - About](./00%20-%20About.md)
-- Next: [02 - Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
+- *Previous: [00 - About](./00%20-%20About.md)*
+- **NEXT:** [02 - Behavior Analysis](./02%20-%20Behavior%20Analysis.md)
 
 ---
 [References](../References.md)

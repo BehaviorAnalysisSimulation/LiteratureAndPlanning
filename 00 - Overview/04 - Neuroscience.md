@@ -15,8 +15,8 @@ I have a lot of work ahead of me.
 
 ---
 
-- Previous: [03 - Behavioral Neuroscience](03%20-%20Behavioral%20Neuroscience.md)
-- Next: [05 - Software Development](05%20-%20Software%20Development.md)
+- *Previous: [03 - Behavioral Neuroscience](03%20-%20Behavioral%20Neuroscience.md)*
+- **NEXT:** [05 - Software Development](05%20-%20Software%20Development.md)
 
 ---
 [References](../References.md)
