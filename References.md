@@ -15,7 +15,7 @@ No real pattern to the note taking. I sometimes take notes as I skim/read an art
 **Amit, D (1989)**. *Modeling Brain Function: The world of attractor neural networks*. Cambridge University Press. https://www.amazon.com/dp/0521421241 
 
 <a name="breland-breland-1961"></a>
-**Breland, K., & Breland, M. (1961)**. The misbehavior of organisms. *American Psychologist, 16*(11), 681–684.
+**Breland, K., & Breland, M. (1961)**. The misbehavior of organisms. *American Psychologist, 16*(11), 681–684. https://psycnet.apa.org/record/1963-00171-001
 
 <a name="burgos-1996"></a>
 **Burgos, J. E. (1996)**. *Computational Explorations of the Evolution of Artificial Neural Networks in Pavlovian Environments* [Unpublished doctoral dissertation *(with permission)*](./Resources/Burgos%20(1996).pdf). University of Massachusetts Amherst. 
