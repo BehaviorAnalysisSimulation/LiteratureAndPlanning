@@ -30,6 +30,7 @@ Donahoe, J. W. (1982). Skinner – The Darwin of ontogeny? _Behavioral and Brai
 
 <a name="donahoe-crowley-millard-stickney-1982"></a>
 Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982). A unified principle of reinforcement: Some implications for matching. In M. L. Commons, R. J. Herrnstein, & H. Rachlin (Eds.), *Quantitative analyses of behavior: Vol. 2. Matching and maximizing accounts* (pp. 493-521). Cambridge, MA: Ballinger.  https://www.amazon.com/dp/0884107396 
+1. [Neural Architecture Reference](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-palmer-1989"></a>
 Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing, Edited by J. L. McClelland, D. E. Rumelhart, and The PDP Research Group. _Journal of the Experimental Analysis of Behavior_, 51, 399-416. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1989.51-399 
@@ -38,17 +39,21 @@ Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Be
 2. Behavior analytic interpretation vs cognitive/computer-science interpretation:
 	1. Behavior analysis derives interpretation of complex behavior from experimental data.
 	2. PDP (cognitive, AI) infers cognitive processes from the complex behavior, vs experimental data.
+3. [Neural Architecture Reference](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-burgos-palmer-1993"></a>
 Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17
 1. [***ANNOTATIONS***](./Annotations/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md)
+2. [Neural Architecture Reference](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-palmer-1994"></a>
 Donahoe, J. W., Palmer, D. C. (1994). *Complex human behavior*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
 1. [***ANNNOTATIONS***](./Annotations/Donahoe%20and%20Palmer%20(1994).md)
+2. [Neural Architecture Reference](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-dorsel-1997"></a>
 Donahoe, J. W., and Dorsel, V. P. (1997)(eds). *Neural-Network Models of Cognition: Biobehavioral Foundations*. North-Holland. https://www.amazon.com/dp/B00R17NXI6
+1. [Neural Architecture Reference](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="falk-1961"></a>
 Falk, J. L. (1961). Production of polydipsia in normal rats by an intermittent food schedule. *Science, 133*, 195–196.
