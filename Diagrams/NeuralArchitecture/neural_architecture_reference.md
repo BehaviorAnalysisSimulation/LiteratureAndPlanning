@@ -1,6 +1,14 @@
 # Neural Architecture Reference: Sensory, Hippocampal, Motor, and Neuromodulatory Systems
 
-Layer labels S′, S″, M″, and M′ follow Donahoe, Burgos & Palmer (1993).
+## LLM Generated
+
+I have scanned, but not thoroughly checked, the diagram, tables, and prompt. This is intended as a working diagram to provide some context. It will change as I come to understand more.
+
+For instructions on how to modify and regenerate the diagram in [Claude.ai](https://claude.ai/), see [neural_architecture_prompt.md](./neural_architecture_prompt.md).
+
+## Reference
+
+Layer labels S′, S″, M″, and M′ follow [Donahoe, Burgos & Palmer (1993)](../../References.md#donahoe-burgos-palmer-1993).
 
 ## Diagrams
 
