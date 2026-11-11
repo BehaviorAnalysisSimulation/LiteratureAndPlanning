@@ -67,6 +67,9 @@ Most of the early simulation in this project will be based on the early works of
 
 For the time being, here is a relatively easy introduction to interbehaviorism, assuming you are already up to speed on radical behaviorism:
 - [Morris, E. K. (1984)](../References.md#morris-1984). Iterbehavioral Psychology and Radical Behaviorism: Some Similarities and Differences. *The Behavior Analyst, 7, 197-204*.]
+
+An oldie, by people I know:
+- [Reese, H. W., & Parrott, L. J. (Eds.)(1986)](../References.md#reese-parrott-1986). *Behavior Science: Philosophical, Methodological, and Empirical Advances.* 
 ### TODO:
 1. Need examples of experiments from an interbehavioral approach. 
 2. How does it differ from JEAB style research? Apparently there is literature out there, but I have not gone looking yet, and much of it may be in Spanish (the Mexican/Burgos connection).

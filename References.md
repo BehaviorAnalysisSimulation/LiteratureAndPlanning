@@ -21,20 +21,20 @@ No real pattern to the note taking. I sometimes take notes as I skim/read an art
 **Burgos, J. E. (1996)**. *Computational Explorations of the Evolution of Artificial Neural Networks in Pavlovian Environments* [Unpublished doctoral dissertation *(with permission)*](./Resources/Burgos%20(1996).pdf). University of Massachusetts Amherst. 
 
 <a name="burgos-1997"></a>
-Burgos, J. E. (1997). Evolving artificial neural networks in Pavlovian environments. In J. W. Donahoe & V. Packard Dorsel (Eds.), _Neural-network models of cognition_ (pp. 58–81). North-Holland. https://www.amazon.com/dp/0444819312
+**Burgos, J. E. (1997)**. Evolving artificial neural networks in Pavlovian environments. In J. W. Donahoe & V. Packard Dorsel (Eds.), _Neural-network models of cognition_ (pp. 58–81). North-Holland. https://www.amazon.com/dp/0444819312
 
 <a name="catania-2013"></a>
-Catania, A. C., (2013). *Learning, 5th Edition*. Sloan Publishing. https://www.amazon.com/Learning-5th-Charles-Catania/dp/1597380237/
+**Catania, A. C., (2013)**. *Learning, 5th Edition*. Sloan Publishing. https://www.amazon.com/Learning-5th-Charles-Catania/dp/1597380237/
 
 <a name="donahoe-1982"></a>
-Donahoe, J. W. (1982). Skinner – The Darwin of ontogeny? _Behavioral and Brain Sciences_. 1984;7(4):487-488. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/skinner-the-darwin-of-ontogeny/0E576BA7E8298FB27B457B65D8E188B1
+**Donahoe, J. W. (1982)**. Skinner – The Darwin of ontogeny? _Behavioral and Brain Sciences_. 1984;7(4):487-488. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/skinner-the-darwin-of-ontogeny/0E576BA7E8298FB27B457B65D8E188B1
 
 <a name="donahoe-crowley-millard-stickney-1982"></a>
-Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982). A unified principle of reinforcement: Some implications for matching. In M. L. Commons, R. J. Herrnstein, & H. Rachlin (Eds.), *Quantitative analyses of behavior: Vol. 2. Matching and maximizing accounts* (pp. 493-521). Cambridge, MA: Ballinger.  https://www.amazon.com/dp/0884107396 
+**Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982)**. A unified principle of reinforcement: Some implications for matching. In M. L. Commons, R. J. Herrnstein, & H. Rachlin (Eds.), *Quantitative analyses of behavior: Vol. 2. Matching and maximizing accounts* (pp. 493-521). Cambridge, MA: Ballinger.  https://www.amazon.com/dp/0884107396 
 1. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-palmer-1989"></a>
-Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing, Edited by J. L. McClelland, D. E. Rumelhart, and The PDP Research Group. _Journal of the Experimental Analysis of Behavior_, 51, 399-416. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1989.51-399 
+**Donahoe, John W., Palmer, David C (1989)**. The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing, Edited by J. L. McClelland, D. E. Rumelhart, and The PDP Research Group. _Journal of the Experimental Analysis of Behavior_, 51, 399-416. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1989.51-399 
 
 1. Rationale for combining behavior analysis with neural nets for modeling behavior, along with the TDD issues.
 2. Behavior analytic interpretation vs cognitive/computer-science interpretation:
@@ -43,101 +43,102 @@ Donahoe, John W., Palmer, David C (1989). The Interpretation of Complex Human Be
 3. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-burgos-palmer-1993"></a>
-Donahoe, John W., Burgos, José E, Palmer, David C (1993). A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17
+**Donahoe, John W., Burgos, José E, Palmer, David C (1993)**. A Selectionist Approach to Reinforcement, *Journal of the Experimental Analysis of Behavior*, 60, 17-40. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1993.60-17
 1. [***ANNOTATIONS***](./Annotations/Donahoe,%20Palmer,%20and%20Burgos%20(1993).md)
 2. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-palmer-1994"></a>
-Donahoe, J. W., Palmer, D. C. (1994). *Complex human behavior*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
+**Donahoe, J. W., Palmer, D. C. (1994)**. *Complex human behavior*. Boston: Allyn & Bacon. https://www.amazon.com/dp/1737499207
 1. [***ANNNOTATIONS***](./Annotations/Donahoe%20and%20Palmer%20(1994).md)
 2. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-dorsel-1997"></a>
-Donahoe, J. W., and Dorsel, V. P. (1997)(eds). *Neural-Network Models of Cognition: Biobehavioral Foundations*. North-Holland. https://www.amazon.com/dp/B00R17NXI6
+**Donahoe, J. W., and Dorsel, V. P. (Eds.)(1997)**. *Neural-Network Models of Cognition: Biobehavioral Foundations*. North-Holland. https://www.amazon.com/dp/B00R17NXI6
 1. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="falk-1961"></a>
-Falk, J. L. (1961). Production of polydipsia in normal rats by an intermittent food schedule. *Science, 133*, 195–196.
+**Falk, J. L. (1961)**. Production of polydipsia in normal rats by an intermittent food schedule. *Science, 133*, 195–196.
 
 <a name="fantino-1969"></a>
-Fantino, E. (1969). Choice and rate of reinforcement. *JEAB, 12*(5), 723–730.
+**Fantino, E. (1969)**. Choice and rate of reinforcement. *JEAB, 12*(5), 723–730.
 
 <a name="ferster-skinner-1957"></a>
-Ferster, C. B., Skinner, B. F. (1957). *Schedules of Reinforcement*. Prentice-Hall. https://www.bfskinner.org/product/schedules-of-reinforcement-pdf/
+**Ferster, C. B., Skinner, B. F. (1957)**. *Schedules of Reinforcement*. Prentice-Hall. https://www.bfskinner.org/product/schedules-of-reinforcement-pdf/
 
 <a name="garcia-koelling-1966"></a>
-Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in avoidance learning. *Psychonomic Science, 4*(3), 123–124.
+**Garcia, J., & Koelling, R. A. (1966)**. Relation of cue to consequence in avoidance learning. *Psychonomic Science, 4*(3), 123–124.
 
 <a name="garcia-rill-2015"></a>
-Garcia-Rill, E. (2015). *Waking and the Reticular Activating System in Health and Disease*. Academic Press. https://www.amazon.com/Waking-Reticular-Activating-System-Disease-ebook/dp/B00WZ1AXG8/
+**Garcia-Rill, E. (2015)**. *Waking and the Reticular Activating System in Health and Disease*. Academic Press. https://www.amazon.com/Waking-Reticular-Activating-System-Disease-ebook/dp/B00WZ1AXG8/
 
 <a name="grimm-railsback-2005"></a>
-Grimm, V., and Railsback, S.F. (2005). *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
+**Grimm, V., and Railsback, S.F. (2005)**. *Individual-based modeling and ecology*. Princeton University Press. https://www.amazon.com/Individual-based-Modeling-Princeton-Theoretical-Computational-ebook/dp/B00GCMZT92
 - The modeling occurs at the individual level. This level of modeling has been known as individual-based modeling (IBM), and is more recently known as agent-based modeling (ABM). Focus on ecology as an example field, but they generalizes well to other areas such as behavior analysis.
 - Also see: [Railsback and Grimm (2019)](./References.md#railsback-grimm-2019)
 
 
 <a name="hake-donaldson-hyten-1983"></a>
-Hake, D. F., Donaldson, T., Hyten, C. (1983). *JEAB*, 39(1), 7-23. https://pubmed.ncbi.nlm.nih.gov/16812313/
+**Hake, D. F., Donaldson, T., Hyten, C. (1983)**. *JEAB*, 39(1), 7-23. https://pubmed.ncbi.nlm.nih.gov/16812313/
 
 <a name="harel-1987"></a>
-Harel, David (1987). *Statecharts: A Visual Formalism for Complex Systems. Science of Computer Programming*, 8, 231-274. https://www.state-machine.com/doc/Harel87.pdf
+**Harel, David (1987)**. *Statecharts: A Visual Formalism for Complex Systems. Science of Computer Programming*, 8, 231-274. https://www.state-machine.com/doc/Harel87.pdf
 
 <a name="hawkins-2021"></a>
-Hawkins, J. (2021). *A Thousand Brains: A New Theory of Intelligence*. Basic Books. https://www.amazon.com/dp/B08CDX6YNW
+**Hawkins, J. (2021)**. *A Thousand Brains: A New Theory of Intelligence*. Basic Books. https://www.amazon.com/dp/B08CDX6YNW
 
 <a name="hawkins-et-al-2019–2024"></a>
-Hawkins, J., et al. (2019–2024). Published papers. thousandbrains.org/papers.
+**Hawkins, J., et al. (2019–2024)**. Published papers. thousandbrains.org/papers.
 
 <a name="herrnstein-1970"></a>
-Herrnstein, R. J. (1970). On the law of effect. *JEAB, 13*(2), 243–266.
+**Herrnstein, R. J. (1970)**. On the law of effect. *JEAB, 13*(2), 243–266.
 
 <a name="honig-staddon-1977"></a>
-Honig, W. K., & Staddon, J. E. R. (Eds.). (1977/2022). *Handbook of Operant Behavior*. Prentice-Hall / Routledge.
+**Honig, W. K., & Staddon, J. E. R. (Eds.). (1977/2022)**. *Handbook of Operant Behavior*. Prentice-Hall / Routledge.
 
 <a name="johnston-pennypacker-2008"></a>
-Johnston, J. M., & Pennypacker, H. S. (2008). *Strategies and Tactics of Behavioral Research* (3rd ed.). Routledge. https://www.amazon.com/dp/B008AU8S74
+**Johnston, J. M., & Pennypacker, H. S. (2008)**. *Strategies and Tactics of Behavioral Research* (3rd ed.). Routledge. https://www.amazon.com/dp/B008AU8S74
 
 <a name="johnston-green-2019"></a>
-Johnston, J. M., & G. Green (2019). *Strategies and Tactics of Behavioral Research and Practice* (4th ed.). Routledge. https://www.amazon.com/Strategies-Tactics-Behavioral-Research-Practice-ebook/dp/B0GFGQGC3C
+**Johnston, J. M., & G. Green (2019)**. *Strategies and Tactics of Behavioral Research and Practice* (4th ed.). Routledge. https://www.amazon.com/Strategies-Tactics-Behavioral-Research-Practice-ebook/dp/B0GFGQGC3C
 
 <a name="keller-shcoenfeld-1950"></a>
-Keller, F. S., Schoenfeld, W. N. (1950). *Principles of Psychology: A Systematic Text in the Science of Behavior*. Appleton-Century-Crofts. https://www.bfskinner.org/product/principles-of-psychology-pdf/ 
+**Keller, F. S., Schoenfeld, W. N. (1950)**. *Principles of Psychology: A Systematic Text in the Science of Behavior*. Appleton-Century-Crofts. https://www.bfskinner.org/product/principles-of-psychology-pdf/ 
 
 <a name="marr-ziio-2013"></a>
-Marr, J., M., & Zilio, D. (2013). No Island Entire of Itself: Reductionism and Behavior Analysis. _European Journal of Behavior Analysis_, _14_(2), 241–257. https://doi.org/10.1080/15021149.2013.11434458
+**Marr, J., M., & Zilio, D. (2013)**. No Island Entire of Itself: Reductionism and Behavior Analysis. _European Journal of Behavior Analysis_, _14_(2), 241–257. https://doi.org/10.1080/15021149.2013.11434458
 
 <a name="morris-1984"></a>
-Morris, E. K. (1984). Iterbehavioral Psychology and Radical Behaviorism: Some Similarities and Differences. *The Behavior Analyst, 7, 197-204*.
+**Morris, E. K. (1984)**. Iterbehavioral Psychology and Radical Behaviorism: Some Similarities and Differences. *The Behavior Analyst, 7, 197-204*.
 
 <a name="mcclelland-rumelhart-1986-1"></a>
-McClelland, J. L., Rumelhart, D. E., & PDP Research Group (Eds.). (1986).  *Parallel distributed processing: Explorations in the microstructure of cognition: Vol. 1. Psychological and biological models*. Cambridge, MA: MIT Press. https://www.amazon.com/David-Rumelhart-Distributed-Explorations-Microstructure/dp/B008UBPF8I
+**McClelland, J. L., Rumelhart, D. E., & PDP Research Group (Eds.). (1986)**.  *Parallel distributed processing: Explorations in the microstructure of cognition: Vol. 1. Psychological and biological models*. Cambridge, MA: MIT Press. https://www.amazon.com/David-Rumelhart-Distributed-Explorations-Microstructure/dp/B008UBPF8I
 
 <a name="mcclelland-rumelhart-1986-2"></a>
- McClelland, J. L., Rumelhart, D. E., & PDP Research Group (Eds.). (1986). *Parallel distributed processing: Explorations in the microstructure of cognition: Vol. 2. Psychological and biological models*. Cambridge, MA: MIT Press. https://www.amazon.com/Parallel-Distributed-Processing-Vol-Psychological/dp/0262631105
+ **McClelland, J. L., Rumelhart, D. E., & PDP Research Group (Eds.). (1986)**. *Parallel distributed processing: Explorations in the microstructure of cognition: Vol. 2. Psychological and biological models*. Cambridge, MA: MIT Press. https://www.amazon.com/Parallel-Distributed-Processing-Vol-Psychological/dp/0262631105
 
 <a name="michael-1995"></a>
-Michael, J., Shafer, E. *State Notation for Teaching About Behavioral Procedures*. _BEHAV ANALYST_ **18**, 123–140 (1995). https://doi.org/10.1007/BF03392698
+**Michael, J., Shafer, E. (1995)**. *State Notation for Teaching About Behavioral Procedures*. _BEHAV ANALYST_ **18**, 123–140. https://doi.org/10.1007/BF03392698
 
 <a name="neuringer-1991"></a>
-Neuringer, A. (1991). Operant variability and repetition as functions of interresponse time. *Journal of Experimental Psychology: Animal Behavior Processes, 17* (1), 3–12. https://doi.org/10.1037/0097-7403.17.1.3
+**Neuringer, A. (1991)**. Operant variability and repetition as functions of interresponse time. *Journal of Experimental Psychology: Animal Behavior Processes, 17* (1), 3–12. https://doi.org/10.1037/0097-7403.17.1.3
 
 <a name="nevin-1974"></a>
-Nevin, J. A. (1974). Response strength in multiple schedules. *JEAB, 21*(3), 389–408. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1974.21-389
+**Nevin, J. A. (1974)**. Response strength in multiple schedules. *JEAB, 21*(3), 389–408. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1974.21-389
 
 <a name="nevin-mandel-atak-1983"></a>
-Nevin, J. A., Mandell, C., & Atak, J. R. (1983). The analysis of behavioral momentum. *JEAB, 39*(1), 49–59. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1983.39-49
+**Nevin, J. A., Mandell, C., & Atak, J. R. (1983)**. The analysis of behavioral momentum. *JEAB, 39*(1), 49–59. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1983.39-49
 
 <a name="rasmussen-clay-pierce-cheney-2022"></a>
-Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002). *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/
+**Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002)**. *Behavior Analysis and Learning: A Biobehavioral Approach International Student Edition*. Routledge. https://www.amazon.com/Behavior-Analysis-Learning-Biobehavioral-Approach-ebook/dp/B0CTBFZ3NP/
 - [**ANNOTATIONS**](./Annotations/Rasmussen,%20Clay,%20Pierce,%20and%20Cheney%20(2022).md)
 
-
 <a name="railsback-grimm-2019"></a>
-Railsback, S. F., and Grimm, V. (2019). *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
+**Railsback, S. F., and Grimm, V. (2019)**. *Agent-Based and Individual-Based Modeling: A Practical Introduction.* Princeton University Press. https://www.amazon.com/Agent-Based-Individual-Based-Modeling-Practical-Introduction-ebook/dp/B07NSHGN2K
 1. Read first: [Grimm and Railsback (2005)](./References.md#grimm-railsback-2005)
 2. This second book builds on the first, and adds implementations in [NetLOGO](https://www.netlogo.org), which will NOT be used in this project but which are valuable as examples.
 
+<a name="reese-parrott-1986"></a>
+**Reese, H. W., & Parrott, L. J. (Eds.)(1986)**. *Behavior Science: Philosophical, Methodological, and Empirical Advances.* Lawrence Erlbaum Associates. https://www.amazon.com/dp/B0CWVG535P
 <a name="sherman-guillery-2000"></a>
 Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
 
