@@ -38,6 +38,9 @@ The earliest references to biological behaviorism within behavior analysis liter
 3. [Donahoe, J. W., Palmer, D. C. (1994)](../References.md#donahoe-palmer-1994). *Complex human behavior*. The first sentence of the preface: "This book draws upon basic biobehavioral processes to provide a conceptually coherent approach to understanding complex human behavior". Is also a good intro to the basics of behavior analysis.
 4. [Donahoe, J.W., and Dorsel, V.P. (1997)](../References.md#donahoe-dorsel-1997). *Neural-Network Models of Cognition: Biobehavioral Foundations*. 
 
+This diagram started out mostly as a means of getting a fuller picture of the neural structure on which the work of Donahoe, et al., is based. It is LLM generated, and provides a link to instructions modifying and regenerating the diagram:
+- [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
+
 The following book *could* be used as an intro to the experimental analysis of behavior (EAB). It does incorporate neuroscience throughout. ***Not sure why it never references any of the preceeding work by Donahoe, et al.***:
 - [Rasmussen, E. B., Clay, C. J., Pierce, W. D., Cheney, C. D. (2002)](../References.md#rasmussen-clay-pierce-cheney-2022). *Behavior Analysis and Learning: A Biobehavioral Approach.*
 
