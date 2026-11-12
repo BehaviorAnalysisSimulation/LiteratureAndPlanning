@@ -1,6 +1,6 @@
 # Prompt for Generating the Neural Architecture Reference
 
-This file shows how `neural_architecture_reference.md` was made and gives a single prompt that reproduces it. Part 1 records the original requests in order. Part 2 combines them into one prompt that you can edit.
+This file shows how [`neural_architecture_reference.md`](./neural_architecture_reference.md) was made and gives a single prompt that reproduces it. Part 1 records the original requests in order. Part 2 combines them into one prompt that you can edit.
 
 ---
 
