@@ -141,40 +141,40 @@ No real pattern to the note taking. I sometimes take notes as I skim/read an art
 **Reese, H. W., & Parrott, L. J. (Eds.)(1986)**. *Behavior Science: Philosophical, Methodological, and Empirical Advances.* Lawrence Erlbaum Associates. https://www.amazon.com/dp/B0CWVG535P
 
 <a name="sherman-guillery-2000"></a>
-Sherman, S. M., & Guillery, R. W. (2000) *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
+**Sherman, S. M., & Guillery, R. W. (2000)**. *Exploring the Thalamus*. MIT Press. https://www.amazon.com/Exploring-Thalamus-S-Murray-Sherman/dp/0123054605
 
 <a name="sidman-1960"></a>
-Sidman, M. (1960). *Tactics of Scientific Research: Evaluating Experimental Data in Psychology*. Basic Books. https://www.amazon.com/dp/B000OA4W4Q
+**Sidman, M. (1960)**. *Tactics of Scientific Research: Evaluating Experimental Data in Psychology*. Basic Books. https://www.amazon.com/dp/B000OA4W4Q
 
 <a name="skinner-1938"></a>
-Skinner, B. F. (1938). *The Behavior of Organisms: An Experimental Analysis*. B.F. Skinner. https://www.bfskinner.org/product/the-behavior-of-organisms-extended-edition-pdf/
+**Skinner, B. F. (1938)**. *The Behavior of Organisms: An Experimental Analysis*. B.F. Skinner. https://www.bfskinner.org/product/the-behavior-of-organisms-extended-edition-pdf/
 
 <a name="skinner-1953"></a>
-Skinner, B. F. (1953).  *Science and human behavior*. Macmillan. https://www.bfskinner.org/product/science-and-human-behavior-extended-edition-pdf/
+**Skinner, B. F. (1953)**.  *Science and human behavior*. Macmillan. https://www.bfskinner.org/product/science-and-human-behavior-extended-edition-pdf/
 
 <a name="skinner-1957"></a>
-Skinner, B. F. (1957). *Verbal Behavior*. Prentice-Hall. https://www.bfskinner.org/product/schedules-of-reinforcement-pdf/
+**Skinner, B. F. (1957)**. *Verbal Behavior*. Prentice-Hall. https://www.bfskinner.org/product/schedules-of-reinforcement-pdf/
 
 <a name="skinner-1959"></a>
-Skinner, B.F. (1959). *Verbal Behavior*. Prentice-Hall. https://www.bfskinner.org/product/schedules-of-reinforcement-pdf/
+**Skinner, B.F. (1959)**. *Verbal Behavior*. Prentice-Hall. https://www.bfskinner.org/product/schedules-of-reinforcement-pdf/
 
 <a name="skinner-1969"></a>
-Skinner, B. F. (1969). *Contingencies of Reinforcement*. Appleton-Century-Crofts. https://www.bfskinner.org/product/contingencies-of-reinforcement-pdf/
+**Skinner, B. F. (1969)**. *Contingencies of Reinforcement*. Appleton-Century-Crofts. https://www.bfskinner.org/product/contingencies-of-reinforcement-pdf/
 
 <a name="skinner-1974"></a>
-Skinner, B. F. (1974). *About Behaviorism*. Vintage Books. https://www.amazon.com/dp/B005FGZ93C#
+**Skinner, B. F. (1974)**. *About Behaviorism*. Vintage Books. https://www.amazon.com/dp/B005FGZ93C#
 
 <a name="skinner-1981"></a>
-Skinner, B. F. (1981). *Selection by Consequences*. Science, 213, 501-504. http://dx.doi.org/10.1126/science.7244649
+**Skinner, B. F. (1981)**. *Selection by Consequences*. Science, 213, 501-504. http://dx.doi.org/10.1126/science.7244649
 
 <a name="staddon-2016"></a>
-Staddon, J. E. R. (2016). *# Adaptive Behavior and Learning*. Cambridge University Press. https://www.amazon.com/dp/B01B1G7XWO
+**Staddon, J. E. R. (2016)**. *# Adaptive Behavior and Learning*. Cambridge University Press. https://www.amazon.com/dp/B01B1G7XWO
 
 <a name="timberlake-lucas-1989"></a>
-Timberlake, W., & Lucas, G. A. (1989). Behavior systems and learning. In S. B. Klein & R. R. Mowrer (Eds.), *Contemporary Learning Theories*. Erlbaum. https://www.amazon.com/Contemporary-Learning-Theories-Instrumental-Conditioning/dp/0898599156/
+**Timberlake, W., & Lucas, G. A. (1989)**. Behavior systems and learning. In S. B. Klein & R. R. Mowrer (Eds.), *Contemporary Learning Theories*. Erlbaum. https://www.amazon.com/Contemporary-Learning-Theories-Instrumental-Conditioning/dp/0898599156/
 
 <a name="w3c-2015"></a>
-World Wide Web Consortium. (2015). State chart XML (SCXML): State machine notation for control abstraction (W3C Recommendation). https://www.w3.org/TR/scxml/
+**World Wide Web Consortium (2015)**. State chart XML (SCXML): State machine notation for control abstraction (W3C Recommendation). https://www.w3.org/TR/scxml/
 
 ---
 
