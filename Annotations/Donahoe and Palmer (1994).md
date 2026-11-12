@@ -69,5 +69,9 @@ Order is not (currently) by page number.
 
 
 ---
-
-[References](../References.md)
+---
+# Also see
+- [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
+- [References](../References.md)
+---
+---
