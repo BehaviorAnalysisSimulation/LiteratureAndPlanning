@@ -11,6 +11,9 @@ Builds on previous Donahoe, et al., papers:
 
 Summarizes and significantly expands on the biobehavioral concepts in those works.
 
+For context see the following LLM generated neural diagram. It highlights areas addressed in this book and the papers listed above:
+- [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
+
 # A Biobehavioral Approach
 
 The reference in [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) to the "in press" version was:
