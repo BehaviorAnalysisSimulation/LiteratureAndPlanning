@@ -35,10 +35,11 @@ That is, the ***neurological facts*** are not in and of themselves of interest. 
 
 The earliest references to biological behaviorism within behavior analysis literature seem to be in the work of Donahoe, et al. The initial simulations in this project will be based on this literature (and additional works by some of these authors):
 
-1. [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) *The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing*. Great article comparing/contrasting behavior analytic and cognitive approaches to complex behavior, and the use of neural nets in modeling behavior. 
-2. [Donahoe, Burgos, and Palmer (1993)](../References.md#donahoe-burgos-palmer-1993). *A Selectionist Approach to Reinforcement*. Expansion in great detail of the neural net described in [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989).
-3. [Donahoe, J. W., Palmer, D. C. (1994)](../References.md#donahoe-palmer-1994). *Complex human behavior*. The first sentence of the preface: "This book draws upon basic biobehavioral processes to provide a conceptually coherent approach to understanding complex human behavior". Is also a good intro to the basics of behavior analysis. **See:** [***ANNNOTATIONS***](../Annotations/Donahoe%20and%20Palmer%20(1994).md).
-4. [Donahoe, J.W., and Dorsel, V.P. (1997)](../References.md#donahoe-dorsel-1997). *Neural-Network Models of Cognition: Biobehavioral Foundations*. 
+1. [Donahoe, Crowley, Millard, and Stickney (1982)](../References.md#donahoe-crowley-millard-stickney-1982). ***Ordered, again. Price has tripled since last time I tried to order the book.***
+2. [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) *The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing*. Great article comparing/contrasting behavior analytic and cognitive approaches to complex behavior, and the use of neural nets in modeling behavior. 
+3. [Donahoe, Burgos, and Palmer (1993)](../References.md#donahoe-burgos-palmer-1993). *A Selectionist Approach to Reinforcement*. Expansion in great detail of the neural net described in [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989).
+4. [Donahoe, J. W., Palmer, D. C. (1994)](../References.md#donahoe-palmer-1994). *Complex human behavior*. The first sentence of the preface: "This book draws upon basic biobehavioral processes to provide a conceptually coherent approach to understanding complex human behavior". Is also a good intro to the basics of behavior analysis. **See:** [***ANNNOTATIONS***](../Annotations/Donahoe%20and%20Palmer%20(1994).md).
+5. [Donahoe, J.W., and Dorsel, V.P. (1997)](../References.md#donahoe-dorsel-1997). *Neural-Network Models of Cognition: Biobehavioral Foundations*. 
 
 This diagram started out mostly as a means of getting a fuller picture of the neural structure on which the work of Donahoe, et al., is based. It is LLM generated, and provides a link to instructions modifying and regenerating the diagram:
 - [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
