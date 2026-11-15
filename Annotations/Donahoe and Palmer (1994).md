@@ -9,7 +9,9 @@ Builds on previous Donahoe, et al., papers:
 2. [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989)
 3. [Donahoe, Burgos, and Palmer (1993)](../References.md#donahoe-burgos-palmer-1993)
 
-Summarizes and significantly expands on the biobehavioral concepts in those works.
+Summarizes and significantly expands on the biobehavioral concepts in those works. 
+
+Explains a large number of experimental procedures. Though out of date, the cited experiments could be a very good starting point anyway, e.g., by looking at the publishers list of other papers citing the experiments (time travel from back-when to more recent times).
 
 For context see the following LLM generated neural diagram. It highlights areas addressed in this book and the papers listed above:
 - [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
