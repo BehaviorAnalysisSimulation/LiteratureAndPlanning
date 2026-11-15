@@ -11,7 +11,7 @@ Builds on previous Donahoe, et al., papers:
 
 Summarizes and significantly expands on the biobehavioral concepts in those works. 
 
-Explains a large number of experimental procedures. Though out of date, the cited experiments could be a very good starting point anyway, e.g., by looking at the publishers list of other papers citing the experiments (time travel from back-when to more recent times). For example, the JEAB lists 83 articles, etc., that cite [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) from 1993-2025.
+Explains a large number of experimental procedures. Though out of date, the cited experiments could be a very good starting point anyway, e.g., by looking at the publishers list of other papers citing the experiments (time travel from back-when to more recent times). For example, the JEAB lists 83 articles, etc., that cite [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) from 1993-2025 *(under heading* **Citing Literature** *at the bottom of the page)*.
 
 For context see the following LLM generated neural diagram. It highlights areas addressed in this book and the papers listed above:
 - [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
