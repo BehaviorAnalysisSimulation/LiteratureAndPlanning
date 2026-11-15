@@ -16,6 +16,8 @@ Explains a large number of experimental procedures. Though out of date, the cite
 For context see the following LLM generated neural diagram. It highlights areas addressed in this book and the papers listed above:
 - [Neural Architecture Reference Diagram](../Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
+**Chapter 8: MEMORY: REMINDING** was the last chapter I read to any depth. Getting to be too high level in terms of the initial goals of this project, building on basics that were covered in previous chapters. Will revisit later, as needed.
+
 # A Biobehavioral Approach
 
 The reference in [Donahoe and Palmer (1989)](../References.md#donahoe-palmer-1989) to the "in press" version was:
