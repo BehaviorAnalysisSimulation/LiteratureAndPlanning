@@ -31,7 +31,8 @@ No real pattern to the note taking. I sometimes take notes as I skim/read an art
 
 <a name="donahoe-crowley-millard-stickney-1982"></a>
 **Donahoe, J. W., Crowley, M. A., Millard, W. J., & Stickney, K. A. (1982)**. A unified principle of reinforcement: Some implications for matching. In M. L. Commons, R. J. Herrnstein, & H. Rachlin (Eds.), *Quantitative analyses of behavior: Vol. 2. Matching and maximizing accounts* (pp. 493-521). Cambridge, MA: Ballinger.  https://www.amazon.com/dp/0884107396 
-1. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
+1. [***ANNOTATIONS***](./Annotations/Donahoe,%20Crowley,%20Millard,%20and%20Stickney%20(1982).md)
+2. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="donahoe-palmer-1989"></a>
 **Donahoe, John W., Palmer, David C (1989)**. The Interpretation of Complex Human Behavior: Some Reactions to Parallel Distributed Processing, Edited by J. L. McClelland, D. E. Rumelhart, and The PDP Research Group. _Journal of the Experimental Analysis of Behavior_, 51, 399-416. https://onlinelibrary.wiley.com/doi/10.1901/jeab.1989.51-399 
