@@ -53,9 +53,10 @@ No real pattern to the note taking. I sometimes take notes as I skim/read an art
 1. [***ANNNOTATIONS***](./Annotations/Donahoe%20and%20Palmer%20(1994).md)
 2. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
-<a name="donahoe-dorsel-1997"></a>
-**Donahoe, J. W., and Dorsel, V. P. (Eds.)(1997)**. *Neural-Network Models of Cognition: Biobehavioral Foundations*. North-Holland. https://www.amazon.com/dp/B00R17NXI6
-1. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
+<a name="donahoe-1997"></a>
+**Donahoe, J. W. (1997).** The Necessity of Neural Networks. In **Donahoe, J. W., and Dorsel, V. P. (Eds.)(1997)**. *Neural-Network Models of Cognition: Biobehavioral Foundations*. North-Holland. https://www.amazon.com/dp/B00R17NXI6
+1. [***ANNNOTATIONS***](./Annotations/Donahoe%20(1997).md)
+2. [Neural Architecture Reference Diagram](./Diagrams/NeuralArchitecture/neural_architecture_reference.md)
 
 <a name="falk-1961"></a>
 **Falk, J. L. (1961)**. Production of polydipsia in normal rats by an intermittent food schedule. *Science, 133*, 195–196.
