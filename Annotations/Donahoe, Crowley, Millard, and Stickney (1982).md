@@ -22,6 +22,20 @@ Also see section "Concluding Comments" (pp 515-516).
 	3. ***TO BE DONE:*** *need a paper that shows a working net complete with equations. The one I worked with was a 2015 paper by Burgos and Garcia-Leal, but I would prefer something earlier in the Donahoe-Burgos research program. I have been putting off doing a research timeline, but now I need it.*
 2. Shows early version of the behavioral discrepancy notion. The mathematical notion here became a mechanism for behavior change in later papers.
 
+# TOBEDONE
+
+### Acquisition
+As noted on page 506 under the heading *Acquisition*, "The unified reinforcement principle as presently described is a steady-state model and its relation to a model of acquisition remains to be developed."
+
+However, [Donahoe, Burgos, and Palmer (1993)](../References.md#donahoe-burgos-palmer-1993) ***DOES*** address acquisition *(plus extinction, reacquisition, conditioned reinforcement, etc.)*. So this 1994 chapter does not strictly build on previous work.
+1. Discussion of acquisition, per se, begins on page 30.
+2. Equations: Appendix, pp 39-40
+
+***MUST go back to my annotations for the 1993 paper and include the above.*** OH! Those annotations are exceedingly skimpy. Guess this has been a TOBEDONE for months.
+
+
+
+
 ------
 ------
 # Also see
